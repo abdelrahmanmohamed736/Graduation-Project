@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuThinButton22.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAGEAAAArCAYAAABoxeapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKLSURBVHhe7Zs9aFNRGIY7ubg5+APaQS2KoIOKqIggWhCK
+        glBxEARBBIdSMFhtbW1p/SmlKq34t7koOtnRRTq4OGi1aRJDiI1p6CW1KVZK5lffe/FqyLG0mpOc4R0e
+        yPDdBL4n95zvnu+7dcViEaK2SIIDSIIDSIIDSIIDSIIDLCphbn4BT954ODacwu7rCayNjKPu/DuxBJgr
+        5uzI7SQej3rwCgvGHJO/Shh5P4M1F8exrTOJQzeyaBqYxqm7Mzh3f04sAeaKOWu8mcP2rhRW/8zlg9fT
+        xlyXSaCx5odpNLQncHroq/EHxPI5MzyLHddSONCfxGT+e0nOSyRQwOaOmP/PN32R+H+O9uewpTOGRG7e
+        LIF3gATYh8sU94syCdwDuASZLhKVZ09PGl0vp35LYBXETVh7QPU4e6+ADW0T+JD5FkhgCcUd3BQs7LG3
+        ZxKtzzKBBNayLKVMgcIeJwY9NFyNBRLqL0fRfCdvDBT24JK04sJYIGFly5hfx5oChV38J2xK4AdTgLCP
+        JDiAJDiAJDiAJDiAJDiAJDiAJDiAJDiAJDhAKIHnFzzHMAUJu4QSOBmgJn5tCCWw+czepylI2IMn1zzB
+        9iV0j2SxqzttDBT2ONiXxclH6UACO//rIlHtC1Vma8cnPH+bDySQyIsv2Nf72RgsKk/jrSk0DaVKpy3Y
+        7N/Zl8DxAc94kagcHKhYfykajkaGEgg7//VtE2p1WoQCNrXH8So6G+a9RAIZjRf8Kbz9WpoqDitQ3gF/
+        CiBlEgiXppanGWy8Evd3cM0j/Tvs3XOqkYPVhweTxulso4Rf0BhLqFWtH4OHCrFsOETBVwv4ioEpx2RR
+        CaI6SIIDSIIDSIIDSELNKeIHKKob4ECZyewAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAKgAAAArCAYAAADsb8PCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKiSURBVHhe7dxPSNNhHMdxT126degPlIdKiqAOFVERQZQQ
+        SEFgdAiCIIIOIiRZmqZof0Ss0OjfrUtRpzx2CQ9dOpTlnGuM5ZrDMXOSITt/67MfrcaevKj7PYf34QUe
+        ns3Lm/1+z2/7PjWFQsEAXxEovEag8BqBwmsECq8RKLy2aKBz8wv27F3WTgwlbO/NmK1vGbOaix+AJVFH
+        6unY3bg9HclaNr/g7E/+G+jwxxlbd3nMdnTE7cittDX0T9uZ+zN24eEcsCTqSD3V387Yzs6Erf3d2aO3
+        084OKwJVzY2Pk1bXFrOzg9+d/wBYTueGZm3XjYQd6ovbZO5nWY9lgSrOre3R4iem642AlXS8L2PbOqIW
+        y8y7A9UnJ3EiTLr06/60IlDdc+qy7noRUE37upPW+Xrqb6DarWtDxD0nfHD+Qd42tY7bp9SPIFBt9bWb
+        ci0GwrC/e9KaX6SCQPU8Slt+10IgDKcGslZ3PRoEWns1Yo33cs6FQBh0mV91aTQIdHXTaPFZlGshEJbi
+        N08KVH+4FgBhIlB4jUDhNQKF1wgUXiNQeI1A4TUChdcIFF4jUHitFKi+89R3n65FQFhKgWrKjoE4+KYU
+        qIaVNA/iWgSEQb+u06/sioF2DadtT1fSuRAIw+HetJ1+kgwC1RTdhpYI96Hwxvb2L/byfS4IVFpefbMD
+        PV+di4Fqqr8zZQ2DifKpTg3O7e6N2cn+rPNFQDVocHPjlUjpOJxSoKIputrWccY/EArFuaVtwt5EZktN
+        lgUqIxP54ukiB7nco4r0FEmfnP/GKRWBii73Tc9TtvnaRHE3xbw8VoLm4HSSjQ6oOzoQd55y5wz0D9Ws
+        rf6a5s/BQ1NgGWlYU0d76ohPV3+yaKBA2AgUXiNQeI1A4TUChccK9gujCDbZVUPYrgAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="loginBtn.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAH8AAAArCAYAAABRolfyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKFSURBVHhe7ds7aFNhGMbxTi5uDl5AO6hFEXRQERURRAtC
+        URAqDoIgiOBQCgarra0trZdSqtKKt81F0cmOLtLBxUGrTZMYQmxMQ0NqU6yUzI8+5+DRkM/Ozfc+ww86
+        fEmHf07OJe/XUKlUIDYpvmGKb5jiG6b4him+YcvGX1hcwrN3RZwYzWDvzRTWxybRcPGDrGBsxFbH7qbx
+        dLyIYnnJ2Zb+G3/s4xzWXZ7Eju40jtzKo2VoFmfuz+HCwwVZwdiIrZpvF7CzJ4O1vxs+ejvrbFwTn5+U
+        1sdZNHWmcHbku/MfSP04NzqPXTcyODSYxnTpZ1XrqvgMv7UrERzprjeS+nV8sIBt3QmkCovu+DziFd5f
+        PB3weqAmPs/x/Kp3vUj8sa8vi57XM3/j86qeF3c6x/vv/IMyNnVM4VPuRxiftwS8MnQtFv/s75tG+4tc
+        GJ/3hLw1cC0U/5waLqLpeiKM33g1jtZ7JedC8Q+/+lddmgjjr26bCO4HXQvFT8ETQcbnH64F4i/FN0zx
+        DVN8wxTfMMU3TPENU3zDFN8wxTcsis/nvHze61okforic+JTw5m2RPE53McZL9ci8Q9/weUvuUH83rE8
+        9vRmnQvFP4cH8jj9JBvG50Tnhlhc530jtnd9wcv3pTA+xV59w4H+r87F4o/mOzNoGclUT+9yiHP3QAon
+        h4rOF0n944DuxivxaAtXFJ840dnYMaWRLg8x/JbOJN7E56PeVfFpPFkOdu0c1CnAG7yT4xH/b3iqiU88
+        BbQ9z2HztWRwZah5/vrDmUzuvuJG26PDaeduXWf8P/hJ4S3BmvbP4UMBqRscyuXWem6xd7WlZeOL3xTf
+        MMU3TPENU3yzKvgF6cfJfS0cKdYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="bunifuTextBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAATsAAAArCAYAAAAHfS/oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOASURBVHhe7Z3NS1VBGIddunTpsqV/gn9Cf0JLFy1sE0Gb
+        Fi1qk4vWQkF4F0EfUNhKoZDrohCCPqDACEyKQCFTUy+aH3d6Z87v3hlxuJgLPVPPAw9H35l37u7HnDuH
+        e/oAAAAA4H/COTdgjrTb7UmzaS7a/wAAp47lz5JyaNoctdKgourk2CL9tthY+AQAgJpiOdWwy4Ci6++w
+        5mFzvloKAKDeWF75Hd95RdjxsIYr6u+ysLzn7s9uudvPNtzNx+vu4vhPRMRT9/qD9ZBDEzNb7u2X30qo
+        iOVXQ1HWG5s4rJ5Aa6cdFs19KCLiWXvryS+3snGgxKqwHBtVpOWxOf47uu6tq9/NXW2sZT8AEbEuXr63
+        6l5/jrs8y7Ftu5xTtB3FJnQPI/yOjqBDxFK8dGfVffuxrwQLgddUtB3GxgarKRXcuiJiafrv83b320qx
+        EHhHDyys6J9XCXz6vptdCBGx7r547+9gKyzXjh5WWHFa4+zqELFY/YFFB8u1eUVcxIrvNM6jJYhYtCmK
+        uIiF3ZrGOJhAxKL1B6wdFHER1QO5ZkTEUkxRxEVUD+SaERFLMUURF1E9kGtGRCzFFEVcRPVArhkRsRRT
+        FHER1QO5ZkTEUkxRxEVUD+SaERFLMUURF1E9kGtGRCzFFEVcRPVArhkRsRRTFHER1QO5ZkTEUkxRxEVU
+        D+SaERFLMUURF1E9kGtGRCzFFEVcRPVArhkRsRRTFHER1QO5ZkTEUkxRxEVUD+SaERFLMUURF1E9kGtG
+        RCzFFEVcpF29jSfg39STWwARsQR7/p6d//lijYWXVuQWQEQswfSlO4q4iIVdU2NufGozuwAiYt31v7Te
+        wXJtSREXsfqNati5V/M72UUQEevuo5ctJVkIu2lFXMTqQ9WwC1tAbmURsTT9i7JXNg6UZCHsRhVxh7GB
+        Oc1xC8t7oTG3ICJiHfV3pR38LaxdBhVvh7GBIZvQPZWderOdXRARsW7efb6p5KqwLLugaMtjc65VUys+
+        fN3l1YqIWFv9Hejsx7ij81jQNRRpvUlvZz3+mZWncy2+x0PE2ug3YRMzW25pdV9JVWH5tWiXAcVZb2xi
+        vzWMhc4M6634BSAAwGniDyDS5+hSLLce2uV4QZdijcNm92FjAIA6YjnlH64bUXSdDFug3y9ii02a3cML
+        AICzxjKpaV6xP/OnrgAAAADwz9HX9wfDO8UlkIPTLQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="bunifuTextBox1.IconRight" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="label90.Text" xml:space="preserve">
+    <value>عادة ما يكون هذا الإنتفاخ عبارة عن أكياس دهنية، وتواجد هذه الأكياس بفروة الرأس شائع جداً ولا يحتاج لجراحة إلا إذا كانت كبيرة.
+
+أما القساوة الحجرية بالفروة فقد تكون أحد الأورام السليمة ولا تحتاج لعلاج.
+
+أما بالنسبة للصداع فلا علاقة له بهذا الإنتفاخ، يفضل مراجعة الطبيب بإجراء الفحص السريري واجراء الصور الطبقية.</value>
+  </data>
+  <data name="label91.Text" xml:space="preserve">
+    <value>ما سبب انتفاخ بسيط في فروة الراس و هو صلب كالعظام و الانتفاخ ليس مرتفع انما منخفض جدا و لايمكن رويته الا بالتحسس الدقيق و لا يوجد به الالم و اعاني ايضا من الصداع هل له علاقه بالانتفاخ و انا خائفة ان يكون ورم ؟</value>
+  </data>
+  <data name="label87.Text" xml:space="preserve">
+    <value>التعايش مع الشرخ الشرجي دون عمليات جراحية أو مراهم
+
+احرص على تناول الأغذية الغنية بالألياف كالفواكه، الخضراوات، المكسرات والحبوب الكاملة.
+ابتعد عن الاطعمة الحارة والمتبلة وشرب كميات كافية من السوائل.
+ممارسة التمارين الرياضية المعتدلة، مثل المشي، بانتظام لمدة لا تقل عن 30 دقيقة.
+تجنب عملية الشد أو الإجهاد خلال عملية التبرز.</value>
+  </data>
+  <data name="label81.Text" xml:space="preserve">
+    <value>
+وضعية الجلوس.
+انزلاق غضروفي.
+الوزن الزائد (السمنة).
+شد عضلي قد يكون بسبب رفع شيء ثقيل، إصابات أثناء ممارسة التمارين الرياضية.
+قد يظهر بسبب وجود اعتلال في أعضاء أخرى يمتد تأثيرها لألم في الظهر منها
+الآم الهيكل العظمى.
+التهابات العظام والعمود الفقري وتشتد الآلام سوءاً أثناء الليل أو أثناء الجلوس أو الوقوف لفترة طويلة من الزمن.
+متلازمة جذر العصب، وتتمثل الأعراض بألم في الديسك بين عظام الظهر السفلية، وعرق النسا.
+ألم ليفي عضلي، وأهم أعراضه تيبس العضلة عند اللمس والإرهاق وآلام عضلات منطقة الظهر السفلية.
+تضيق نخاعي يحدث عادة نتيجة لتقدم العمرعندما يفتقد الرطوبة والحجم بالتالي قلة المسافات بين الأَقْراصُ الفِقَرِيَّة، ولمس العصب الذي ينجم عنه ازدياد الحالة سوءاً.</value>
+  </data>
+  <data name="label78.Text" xml:space="preserve">
+    <value>
+تشوهات في القدم.
+السمنة الزائدة.
+الأحذية الغير مناسبة للقدم.
+وجود كسر اجهادي في القدم أو الساق.
+ورم مورتون العصبي.
+أما بأنك تناولت دواء lagaflex الذي يحتوي على المادة الفعالة كاريزوبرودول فهو يستخدم كمرخي للعضلات بالإضافة إلى مسكن الألم rapidus.
+
+فأنصحك بالتوقف عن تناول الدواء ومراجعة الطبيب لأن حالتك تحتاج للتشخيص السريري بالإضافة لإجراء صور الأشعة للقدم ليتم وصف الدواء المناسب لك.</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>أعاني من الم اسفل القدم اليسرى و مشط القدم ذاتها و يزيد الألم بعد الاستيقاظ من النوم وأخذ منذ أسبوع. دواءlagaflex ثلاث مرات باليوم و دواء rapidus 50. ديكلو فيناك بوتاسيوم مرتين باليوم لكن لا تحسن حتى الآن وشكرا لكم</value>
+  </data>
+  <data name="label75.Text" xml:space="preserve">
+    <value>عظام الجسم منذ بداية تخلقها في مرحلة الحمل تبدأ بالنمو بتناسق و تماثل و لا ينمو عضو على حساب الاخر , و النمو يكون في الطول و القطر و السماكة , و يستمر هذا النمو اثناء مرحلة الطفولة , و يتسارع في مرحلة البلوغ و المراهقة , حيث يلاحظ ازدياد الطول و القطر و الثخانة عند الشباب و الشابات , و يستمر هذا النمو حتى عمر 19 سنة , ثم يزداد بمعدل 2 سم في السنة التالية حتى عمر 20 سنة حيث يتوقف نمو العظام في جميع الاتجاهات توقفاً شبه كامل , و لا تنمو بعد ذلك الا بمعدل سنتمتر واحد طوال الخمس سنوات الا اذا كان هناك عوامل غير طبيعية مثل زيادة في افراز هرمون النمو , او في حالة مرض ضخامة الاطراف الاربعة بما فيها الاصابع و الرسغين و كذلك الوجه و الرأس , وذلك بسبب وجود ورم حميد في الغدة النخامية . لذا يجب عليك زيارة طبيب اخصائي عظام اولاً و هو يستطيع عن طريق اجراء الفحوصات المختبرية ان يوجهك الى الاختصاص المناسب و خاصة اختصاص الغدد الصماء , و اذا تم التشخيص على ان التشخيص على انه ورم في الغدة النخامية فالعلاج يكون بالاشعة او عملية جراحية للغدة النخامية يجريها اختصاص جراحة اعصاب</value>
+  </data>
+  <data name="label76.Text" xml:space="preserve">
+    <value>متى يتوقف نمو العظام (عرضا)؟وهل صحيح بأن عرض العظم يتوقف عن النمو وأن الإهتمام بالعظم بعد سن العشرين يزيد كثافة العظم فقط ولا يزيد حجمه أو قطره؟ عمري 20 سنة وقد بدأ نمو بعض العظام بشكل ملحوظ عندي في سن ١٩ سنة مثل عظم الرسغ وعظام الأصابع والكتف والقفص والركبة ولا أعرف عمرالعظم عندي ومتى سيتوقف النمو أرجوا منكم أفادتني وأشكركم مقدما</value>
+  </data>
+  <data name="label73.Text" xml:space="preserve">
+    <value>
+
+عند النهوض من النوم أو عند الجلوس لفترة وجيزة أشعر بتيبس بالكعبين وصعوبة بالمشي مع ألم متوسط لمدة 10 أو 15 دقيقة وبعدها أمشي مع الشعور بالألم ويستمر الألم طويلا وأحيانا تذهب هذه الحالة وكنت قد أصبت بهذه الحالة وانا عمري حوالي الثلاثين سنة وعمري الآن 54 سنة والآن عندي مرض السكري النوع الثاني </value>
+  </data>
+  <data name="label69.Text" xml:space="preserve">
+    <value>معظم مرضى ارتفاع ضغط الدم لا يعانون من علامات أو أعراض,  لكن أحيانا قد يعانون من:
+
+الصداع.
+ألم في الصدر.
+نوبات دوار و غثيان.
+قد يحدث نزيف في الأنف أكثر من المعتاد في حال ارتفاع ضغط الدم بشكل كبير.
+ضيق في التنفس.
+دم في البول.
+عدم إنتظام ضربات القلب.
+نبض سريع في الصدر, الأذن و الرقبة.
+لذا يجب فحص ضغط الدم باستمرار لأنه قد يرتفع من دون ظهور أعراض.
+
+أما  أعراض ضغط الدم المنخفض  فتشتمل:
+
+الدوخة أو الدوار.
+عدم القدرة على التركيز.
+عدم وضوح الرؤية.
+غثيان و شحوب.
+قصر وسرعة التنفس.
+اضطراب نظم القلب, وقد يحدث إغماء اذا انخفض الضغط بشكل كبير ومفاجيء.</value>
+  </data>
+  <data name="label66.Text" xml:space="preserve">
+    <value>علاج الضغط يخضع لعوامل كثيره ويكون وفقاً لنوعه وسببه فإذا كان سببه معروف ومحدد يجب معالجته، أما في الحالات التي لا يمكن تحديد السبب فيها كما هو الحال في النوع الأساسي فالعلاج يعتمد على المريض والمرحلة التي وصل إليها المرض وهناك خطوات يمكن تلخيصها كما يلي: - الحمية الغذائية، القائمة على تجنب ملح الطعام، والإكثار من شرب الماء. - تغيير نمط الحياة إلى نمط يتميز بالحركه الكثيرة، ووضع برنامج رياضي يومي ثابت لا يقل 150 دقيقة اسبوعياً. - معالجة الخلل الدهني إن وجد، والقيام بفحص دوري للدهون والمحافظة عليها ضمن المستوى الطبيعي. - إزالة الزيادة في الوزن. - الإلتزام بتناول الدواء الموصوف طبياً، فارتفاع الضغط هو مرض مزمن ولا يمكن الاعتماد على تغير نمط الحياة فقط لمعالجته ويجب الالتزام بتناول الأدوية إلى جانبها.</value>
+  </data>
+  <data name="label63.Text" xml:space="preserve">
+    <value>
+الضغط الطبيعي هو 120/80 مليمتر زئبقي أو أقل.
+ مصاب بإرتفاع ضغط الدم المرحلة الأولى عندما يكون الضغط  من 130\81 إلى 130\89 مليمتر زئبقي.  
+مصاب بإرتفاع ضغط الدم المرحلة الثانية  140\ 90 ملم زئبقي أو أكثر.
+أما الانخفاض عن الضغط الطبيعي فإنه لا يوجد تعريف رقمي محدد لضغط الدم المنخفض، وعادة ما يكون كحالة طارئة فقط.
+ 
+
+أما بالنسبة للسكر عادةً مستوى الجلوكوز في الدم يكون بين 4.4 -6.1 مليمول، أو ما يعادل 82- 110 ملغم وخارج هذه القيم يعتبر مرتفعاً وهو الإصابة بمرض السكري أو منخفضاً.</value>
+  </data>
+  <data name="label60.Text" xml:space="preserve">
+    <value>من المشروبات التي تعمل على التقليل من ارتفاع ضغط الدم
+
+الكركديه.
+الشاي الأخضر.
+عصير الشمندر.
+عصير الكرفس.
+عصير الأناناس.
+أما المشروبات التي تعمل على رفع ضغط الدم 
+
+عرق السوس.
+الشاي الأسود.
+نبات اليوهمبي.
+يجب عليك تجنب الأطعمة المعلبة، المخللات، التقليل من اللحوم، الكبد.
+
+أما لمعرفة النظام الغذائي المناسب لمرضى الضغط عليك قراءة هذا المقال: الأغذية المناسبة لمرضى ضغط الدم.
+
+بشكل عام يعتبر الإكثار من تناول الأغذية الغنية بالصوديوم ومصدره الأساسي ملح الطعام يؤدي إلى ارتفاع ضغط الدم الشرياني، كما أن تناول المشروبات الغنية بالكافيين كالقهوة والمشروبات الغازية يسبب ارتفاع الضغط ويجب تجنبها.
+
+التغييرات الغذائية مفيدة للوقاية من ارتفاع ضغط الدم تتضمّن النِّظامِ الغِذائِيّ الغني بالفواكه والخضار وأطعمة من الألبان القليلة الدسم أو خالية من الدهن لزيادة كمية الكالسيوم الغذائية اليومية.
+
+كما يجب التوقف عن التدخين للتقليل من احتمالية حدوث السكتات الدماغية والنوبات القلبية التي يسببها ارتفاع ضغط الدم مع مرور الوقت</value>
+  </data>
+  <data name="label57.Text" xml:space="preserve">
+    <value>إرتفاع نسبة اليوريا في الدم تحدث نتيجة للإصابة المزمنة في الكليتين وعدم قدرتها على أداء وظيفتها بالتخلص من الفضلات وإرسالها إلى البول، قد يكون ذلك نتيجة للأسباب التالية
+
+الالتهاب الكلوي الحاد والمزمن.
+الفشل الكلوي.
+مرض تكيس الكلى.
+إلتهاب في أنابيب الكلى أو المنطقة المحيطة بها.
+الحصى الكلوية.
+علاج إرتفاع نسبة اليوريا في الدم
+
+غسيل الكلى.
+الغسيل الكلوي البريتوني.
+تجنب تناول الأغذية الغنية بالصوديوم، الفوسفور والبوتاسيوم.</value>
+  </data>
+  <data name="label54.Text" xml:space="preserve">
+    <value>
+اسباب نقص اكسجين الدم كثيرة و متعددة فمنها ما يتعلق بالرئتين وهي الجهاز القائم على تنقية الدم المؤكسد وامداده بالاكسجين لينتقل بعدها الى كافة اعضاء الجسم حتى تقوم بعملها على احسن وجه, لذلك فان اي مرض يؤثر على عمل الرئتين بشكل سليم فهو بالتالي سيؤدي الى نقص في الاكسجين في الدم, و هناك عوامل خارجية اهمها نقص الاوكسجين في الجو كما يحدث في المناطق المرتفعة عن سطح البحر, او تلوث الجو في المناطق الصناعية او الحروب غير التقليدية, كذلك يمكن حصول نقص الاوكسجين في حال وجود تحويلة شريانية وريدية حيث يختلط الدم الوريدي غير المؤكسد بالدم الشرياني. هذه هي بعض الاسباب و هناك اسباب اخرى كثيرة لا مجال لذكر</value>
+  </data>
+  <data name="label51.Text" xml:space="preserve">
+    <value>التهاب الدم أو ما يعرف طبيا بتعفن الدم هو أحد مُضاعفات الاصابة بالعدوى والمُهددة لحياة المُصاب , ويحدث عند افراز المواد الكييمائية في الدم لمهاجمة العوامل البكتيرية الممرضة ( المُتسببة في العدوى في مجرى الدم) وتحفيزه للاستجابة الالتهابية التي تُنبه العديد من التغيرات التي تُتلف أعضاء الجسم المختلفة وتؤدي الى فشلها . أما الأعراض المصاحبة لتعفن الدم فتتمثل بانخفاض ضغط الدم بشكل ملحوظ مُتسبباً بالصدمة التي تؤدي الى فقدان أعضاء الجسم الحيوية لوظيفتها كالكلية , الرئتين , الكبد والجهاز العصبي المركزي. كما يعاني المريض من : القشعريرة، ارتفاع درجة حرارة الجسم عن 38.5 درجة سيليسية او انخفاضها عن 35 درجة سيليسية، تسارع نبض القلب، طفح الجلد، دفء الجلد، تسارع معدل التنفس عن 20 / دقيقة. يشمل علاج تعفن الدم التدخل الطبي الفوري للحد من مُضاعفاته اما في الحالات المزمنة فتُجرى العديد من الاجراءات الاسعافية للحفاظ على سلامة التنفس ومعدل نبض القلب , ويتمثل العلاج بالمُضادات الحيوية عن طريق الوريد بأكثر من نمط منها قبل تحديد العامل البكتيري المُسبب للانتان وبمجرد التعرف عليه يُوصى بمُضاد حيوي ملائم.</value>
+  </data>
+  <data name="label48.Text" xml:space="preserve">
+    <value>فيروس الكبد الوبائي من النوع سي يسبب التهاب حاد ومزمن، يتم تشخيص الإصابة به بإجراءالتحاليل بالإضافة لخزعة للكبد إذ تحدد مقدار تلف الكبد وتساعد في تحديد أسباب تلف الكبد.
+
+التحاليل اللازمة لتشخيص الالتهاب الكبدى الفيروسى سي:
+
+ تحليل الأجسام المضادة، التى تبحث عن وجود الأجسام المضادة لفيروس سي مثل تحاليل ELISA.
+تحليل الحامض النووى RNA لفيروس سي، التى تبحث عن وجود أجزاء من الفيروس والطريقة الأكثر شيوعا هى تحليل PCR.
+تحليل إنزيمات الكبد وقياس نسبة الإنزيمات الكبدية، التى تنتج بكميات كبيرة فى حالة التهاب الكبد مثل حالات الالتهاب الكبدى الفيروسىي سي، وحالات الإلتهاب الكبدي الأخرى وحالات مرضية أخرى غير ناتجة عن مرض بالكبد، إذ لا يعتمد على هذا التحليل لتشخيص المرض.
+إن نتيجة اختبار فحص الكبد الوبائي سي تكون على شكل نتيجة ايجابية أو سلبية ويتم إجراء التحليل الكمي قبل تحديد العلاج ويكون الحد الأدنى للكشف أقل من 10 وحدة دولية/مل.</value>
+  </data>
+  <data name="label45.Text" xml:space="preserve">
+    <value>مشاكل في القلب.
+مشاكل في الرئة منها الإصابة بالربو، انتفاخ الرئة والتهاب الشعب الهوائية.
+المواقع العالية حيث تكون نسبة الأكسجين فيها أقل.
+قد يكون ناتج عن تناول بعض الأدوية.
+ضعف التنفس أثناء النوم.
+التهاب أو ندبات في نسيج الرئة.</value>
+  </data>
+  <data name="label42.Text" xml:space="preserve">
+    <value>هذه اعراض الهلع...ويحتاج مراجعه استشاري نفسي او دوائي و ينبغي استشارة طبيب جراحة عامة....سلامتك
+هذا الشعور يرجح الاصابة بالاكتئاب أو القلق.. انصحك بزيارة طبيب نفسي لتقييم حالتك بدقة ووضع الخطة العلاجية المناسبة</value>
+  </data>
+  <data name="label36.Text" xml:space="preserve">
+    <value>
+أكثر أسباب الآلام في الصدر فهي عضلات الصدر، آلام عضلات الصدر تحدث بسبب تقلص عضلات الصدر، سواء بسبب وضعية معينة أو التعرض للهواء البارد، وتزيد مع حركة الصدر أو في نهاية النهار.
+
+ من أسباب آلام الصدر أحياناً ارتجاع حموضة المعدة؛ إلا أنها عادة ما تترافق مع الإحساس بالحرقة خلف الصدر، وتزيد في الليل ومع الإستلقاء.
+
+كذلك التوتر يزيد تقلص عضلات الصدر فهي من أكثر العضلات تأثراً بالتوتر والقلق، والضغوط النفسية، وتسبب الإحساس بإطباق الصدر مع قلق.
+
+يجب مراجعة الطبيب وفحصك سريريا لأن المعلومات غير كافية للتشخيص الدقيق.</value>
+  </data>
+  <data name="label33.Text" xml:space="preserve">
+    <value>
+انحراف بالحاجز الأنفي، وقد يستدعي الأمر إجراء جراحة لتقويم ذلك الاعوجاج.
+ حساسية الأنف وما تسببه من انسداد مزمن للأنف وتجمع الافرازات، لذلك يجب الإبتعاد عن مهيجات الحساسية، مثل الأتربة والدخان و العطور.
+ التهاب الجيوب الأنفية.
+وفى حالة وجود بلغم أبيض غير ملون ولكنه لزج لا يخرج بسهولة، فيمكنك إذابته حتى يسهل إخراجه باستخدام ميكوسولفان.</value>
+  </data>
+  <data name="label30.Text" xml:space="preserve">
+    <value>- السكري النوع الأول:
+  ينتج عن فقدان البنكرياس قدرته على تصنيع الانسولين بشكل مطلق وعادة ما يصيب الأطفال .
+
+- السكري النوع الثاني:
+ينتج عن تصنيع الانسولين في البنكرياس بكميات غير كافية  وقد ينتج عن مقاومة هرمون الانسولين ويتأثر عادة بالعامل الوراثي .
+
+- السكري نوع 1.5 :
+  يستطيع البنكرياس في البداية تصنيع هرمون الانسولين بكميات غير كافية وبشكل مماثل للنوع الثاني من السكري ولكن يفقد البنكرياس القدرة على تصنيع الانسولين بعد مرور فترة زمنية على الاصابة فيصبح مماثل للنوع الأول من السكري وعادةما يؤثر في البالغين الذين تزيد أعمارهم عن 20 عاماً</value>
+  </data>
+  <data name="label27.Text" xml:space="preserve">
+    <value> معدل السكر التراكمي عند الأشخاض الأصحاء
+
+تكون نسبة فحص السكر التراكمي (Hb1Ac) أقل من 5.6%
+يشخص المريض بمقدمات السكري (ما قبل السكري)  إذا كانت قراءات السكر كالتالي:
+
+تكون نسبة فحص السكر التراكمي (Hb1Ac) ما بين 5.7-6.4%.
+نسبة السكر الصائم ما بين 100-125 مغم/ديسيلتر.
+نسبة السكر ما بعد الوجبات بساعتين ما بين 140-199 مغم/ديسيلتر.
+يشخص المريض بمرض السكري إذا كانت قراءات السكر كالتالي:
+
+تكون نسبة فحص السكر التراكمي (Hb1Ac) أكثر من 6.5%.
+نسبة السكر الصائم أكثر أو يساوي 26 مغم/ديسيلتر.
+نسبة السكر ما بعد الوجبات بساعتين أكثر أو يساوي 200 مغم/ديسيلتر.
+أما بالنسبة للنسب الطبيعية للسكر في الدم، يكون كالتالي:
+
+نسبة السكر الطبيعية عند الأشخاص الأصحاء:
+
+نسبة السكر في الدم الصائم ما بين 72-99 مغم/ديسيلتر.
+نسبة السكر بعد ساعتين من تناول الطعام أكثر من 140 مغم/ديسيلتر.
+نسبة السكر الطبيعية لمرضى السكري:
+
+نسبة السكر الطبيعية قبل الوجبات تكون من 72-126 مغم/ديسيلتر.
+نسبة السكر الطبيعية بعد الوجبات أن تكون أقل من 160 مغم/ديسيلتر.
+يجب عليك إجراء تحاليل البول، وتحاليل السكري.</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>ضغط الدم الطبيعية: 80- 130 مم زئبق تحياتي
+
+معدلات السكر في الدم للصائم:
+غير المصاب بالسكري 70-100 ملغم/ديسيلتر.
+ما قبل الإصابة بالسكري 100-125 ملغم/ديسيلتر.
+مصاب بالسكري أكثر من 125 ملغم/ديسيلتر.
+معدلات السكر في الدم بعد تناول الوجبة :
+غير المصاب بالسكري  120-140 ملغم/ديسيلتر
+ما قبل الإصابة بالسكري 140-160 ملغم/ديسيلتر
+مصاب بالسكري أكثر من 200 ملغم/ديسيلتر
+أما معدل ضغط الدم الطبيعي: 130/80.</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>تحليل السكر الصائم Fasting blood sugar يكون بعد 8 ساعات صيام تام وتعتبر نسبة السكر الصائم طبيعية إذا كانت:
+
+70-100 مغ/دسل لدى الأشخاص غير المصابين بالسكري.
+70-130 مغ/دسل لدى الأشخاص المصابين بالسكري.
+إذا كانت نتيجة تحليل السكر الصيامي:
+
+بين 100-125 مغ/دسل فتكون مؤشر للإصابة بمقدمات السكري.
+أعلى من 126 فيعد المريض مصاب بالسكري.
+أما نسبة السكر بعد ساعتين من الطعام (تحليل السكر للفاطر) تكون طبيعية:
+
+إذا كانت أقل من 140 مغ/دسل عند الأشخاص غير المصابين بالسكري
+أقل من 180 عند مرضى السكري
+الحالات الخاصة لها أرقام خاصة بكل مريض مثل سكر الحمل، ومريض الكبد، ومريض الكلى، والمريض الذى يعانى من التهاب بالجسم وهو أمر متروك للطبيب المعالج.</value>
+  </data>
+  <data name="label18.Text" xml:space="preserve">
+    <value>نعم، إن نسبة 167 بعد الأكل بساعتين تعتبر نسبة تدل على بداية مرض السكري أو ما يسمى بمقدمات السكري، ولكن يفضل إعادة الفحص واجراء فحص السكر للصائم.
+
+أنواع تحليل السكر في الدم:
+
+السكر العشوائي، يتم إجرائه بعد ساعتين من تناول الطعام إذا كانت النسبة 140مغ/دسل-199مغ/دسل تكون دليل على مقدمات السكري إذا كانت أعلى من 200مغ/دسل فهذا يكون دليل على الإصابة بالسكري. 
+تحليل السكر الصيامي، حيث إذا كانت نسبة السكر للصائم في الدم أكثر من الطبيعي أي أكثر من 126 مغ/دسل وذلك بعد صيام 8 ساعات.
+تحليل السكر التراكمي، أكثر من 6.5% تعد ضمن الحد الطبيعي ولكن إذا حدث ارتفاع اكثر من ذلك يجب استشارة الطبيب.
+أما بالنسبة لفترة الحمل، تكون النسبة في تحليل السكر للصائم أعلى من 92 مغم/دسل.
+كما أنصحك بإتباع ما يلي:
+
+المحافظة على الوزن المثالي دون زيادة في الوزن.
+ممارسة التمارين الرياضية لمدة 30 دقيقة يومياً.
+التقليل من تناول الأطعمة الغنية بالسعرات الحرارية.
+كما يجب عليك مراجعة الطبيب، وإجراء المزيد من التحاليل للتأكد من التشخيص.</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>T4 الكلي الطبيعي في الدم يتراوح ما بين 5-12 ميكروجرام/100 ملليترآ (65-156 نانومول / لترآ). tsh 0.5-5 مل وحدة دولية/ لترآ. ومستوى T3 الطبيعي في الدم يتراوح مت بين 0.07-0.17 ميكروجرام / 100 ملليتر دم (0.91 – 2.2 نانومول/لتر)</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>نعم إن ارتفاع هرمون ال TSH في الدم يعني خمول في نشاط الغده الدرقيه ويحتاج إلى علاج تعويضي بهرمون الثيروكسين ونسبة ارتفاع الهرمون هي التي تحدد الجرعه.
+ينصح بعض الأطباء بعلاج كسل الغدة الدرقية بشكل سريع لأن بعض الدراسات تقترح زيادة خطر الإصابة بأمراض القلب إذا استمر ارتفاع هرمون ال TSH أعلى من 10mU/L لفترة طويلة.
+أما بالنسبة لموضوع الغدة الدرقية والحمل فبعض الدراسات أشارت إلى أن خمول الغدة خلال الحمل قد تزيد من خطر الإجهاض أو الولادة المبكرة، كما أنها تؤدي إلى صعوبة لحدوث الحمل.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>أعراض كسل في إفراز الغدة الدرقية
+التعب العام.
+جفاف الجلد.
+الإمساك.
+زيادة الوزن.
+بطئ في ضربات القلب.
+اكتئاب.
+فرط النوم.
+ارتفاع في مستوى الكوليستيرول.
+عدم علاج الكسل في افراز الغدة الدرقية  يؤدي إلى 
+مشاكل في القلب، ناتجة عن ارتفاع في مستوى الكوليسيرول.
+العقم.
+تضخم الغدة الدرقية.</value>
+  </data>
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

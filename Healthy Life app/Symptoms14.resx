@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>يهدف علاج التهاب الرئة الى القضاء على الجراثيم المسببة له ومنع حدوث المضاعفات , فقد تحتاج بعض الحالات الشديدة للاقامة في المستشفى وبعضها يمكن علاجه في المنزل.
+مدة علاج التهاب الرئة 
+تختلف مدة علاج الالتهاب الرئوي تبعًا لنوع الالتهاب والمسبب ويحدد الطبيب المختص فترة العلاج تبعًا للخطة العلاجية المقرر اتباعها والجدير بالذكر هنا أنه في حال استعمال المضادات الحيوية يجب على المريض أخذ فترة العلاج كاملة.
+يحتاج مريض التهاب الرئة الاقامة في المستشفى اذا كان:
+1- عمره اكثر من 65 او اقل من 3 سنوات
+2- يشكو من حمى شديدة او من حرارة اقل من المستوى الطبيعي
+3- صعوبة التنفس مع انخفاض مستوى الاكسجين في الدم
+4- انخفاض مستوى ضغظ الدم وزيادة سرعة التنفس
+5- ضعف المناعة المكتسب مثل الايدز او بسبب العلاج الكيميائي
+هناك العديد من الادوية التي قد يصفها الطبيب :
+1- المضادات الحيوية حيث يتعمد نوع المضاد الحيوي على نوع الجراثيم المسببة للالتهاب الرئوي
+2- كما قد يصف الطبيب بعض مسكنات الالم وخافضات الحرارة
+3- مضادات الفيروسات اذا كان المسبب فيروسي
+4- ادوية السعال والتي تعمل على تهدئة السعال او ازالة البلغم
+علاج التهاب الرئة الحاد 
+يعتمد علاج الالتهاب الرئوي على حدة الالتهاب ونوع الميكروب المسبب للمرض، فقد يكون:
+التهاب ناتج عن الاصابة بعدوى بكتيرية يحتاج لعلاج مضاد حيوي  مثل أموكسيسيلين، كلاريثروميسين، الاريثروميسين، البنسلين  
+إذا كان الفيروس هو المسبب للعدوى عادة ما يتلاشى المرض من تلقاء ذاته وفي بعض الأحيان يحتاج إلى مضادات فيروسية مثل ريمانتادين، اوسيلتاميفير
+في حال الإصابة بعدوى فطرية يحتاج المصاب إلى مضاد فطري، لذلك يحدد الطبيب المعالج نوع الخطة العلاجية التي يجب اتباعها
+قد يحتاج الطبيب إلى وصف الأدوية  التي تصنف أدوية دون وصفة طبية للمساعدة في إدارة أعراض الالتهاب الرئوي. وتشمل هذه العلاجات للحد من الحمى، والحد من الأوجاع والآلام، وإيقاف السعال
+وفي بعض الحالات يحتاج الشخص المصاب إلى تلقي العلاج داخل المستشفى حفاظا على حياته في حال كانت أعراض الإصابة بالمرض شديدة وتشكل خطورة على المصاب أو إذا كان المصاب من الأشخاص الذين يعانون اضطرابات في الجهاز المناعي أو من كبار السن.
+في المستشفى، يعالج المرضى عمومًا بالمضادات الحيوية الوريدية والسوائل. قد يحتاجون إلى التنفس الاصطناعي في بعض الحالات
+علاج التهاب الرئة المزمن 
+عادة ما يبدأ الطبيب باعطاء علاجات مضادة للميكروب واسعة المدى.
+في بعض الأحيان ينتظر الطبيب إجراء زراعة لمعرفة الميكروب المسبب للالتهاب وإعطاء علاج مضاد متخصص له، كما يجب على المريض البقاء في مكان يحتوي على هواء نقي وكاف للحصول على الأكسجين الكافي لحاجة الجسم.
+أحيانًا  يترك الالتهاب أثر على الرئة  مثل حدوث جروح وتمزق في  أنسجتها إثر التهيج المصاحب للالتهاب وملازمته فترة طويلة لجسم الإنسان مما قد يتسبب بحدوث مضاعفات لاحقا في الرئة والجهاز التنفسي بشكل عام.
+ينصح الطبيب المريض عادة بالنوم والراحة، وشرب الكثير من الماء وتجنب التدخين لتحسين اعراض التهاب الرئة المزمن و التعافي بسرعة أكبر.
+في حال كان المريض يعاني من أعراض شديدة لا بد من علاجه داخل المستشفى تحت الإشراف الطبي وملاحظة نبض المريض ودرجة حرارته وسرعة تنفسه بشكل دوري.
+يعالج المرضى عمومًا بالمضادات الحيوية الوريدية والسوائل وقد يحتاجون إلى التنفس الاصطناعي في بعض الحالات.
+علاج التهاب الرئة للمدخنين:
+يعد المدخنون أكثر الناس عرضة للإصابة بأمراض الرئة بشكل عام،  وفي حال إصابة المدخن بالالتهاب الرئوي يجب معالجته بصورة صحيحة وسريعة وذلك لأن هناك دراسات طبية تثبت أن احتمال إصابته بمرض سرطان الرئة تزيد، ما لم يعالج الالتهاب الرئوي، كما وأنه من الممكن أن يكون ظهور أعراض الالتهاب الرئوي هي ذاتها أعراض الإصابة بسرطان الرئة.
+يعد التدخين بحد ذاته مثبط للجهاز المناعي وبالتالي يعمل على إعاقته من الدفاع عن الجسم وبالتالي زيادة فرص الاصابة بالالتهابات بشكل عام.
+يجب على المدخن إيقاف التدخين خلال فترة العلاج من الالتهاب الرئوي وذلك لأن
+التدخين في حين وجود الالتهاب الرئوي يقتل أهداب الرئتين، والشعر صغيرة على طول الجهاز التنفسي مما يعيق عملية العلاج ويساعد الميكروب في النمو
+التدخين بحد ذاته يعمل على تقليل كمية الاكسجين المتجه نحو خلايا الجسم وبوجود الالتهاب الرئوي تقل كفائة الرئتين على تزويد الاكسجين للجسم وبذلك يكون المصاب معرض لحدوث نقص في اكسجين الدم اكثر من غيره.
+علاج التهاب الرئة الفيروسي 
+في كثير من الأحيان يكون الميكروب الفيروسي هو المسبب الأساسي للالتهاب الرئوي، وهذه قد يعطي فرصة أيضًا للبكتيريا بالنمو وتتسبب بحدوث التهاب رئوي مضاعف إثر نشاط البكتيريا، لانشغال الجهاز المناعي بمقاومة الفيروس وعادة ما يكون صغار السن وكبار السن هم أكثر الأشخاص عرضة للإصابة بالالتهاب الرئوي الفيروسي، وعادة ما يزول الالتهاب الرئوي الفيروسي لوحده دون تدخل طبي.
+بالمقابل قد يكون التهاب الرئة خطير ويهدد حياة المريض خاصة إذا ما أصاب الأنثى الحامل أو الأشخاص الذين يعانون من أمراض مزمنة في القلب أو الرئة.
+يلجأ الطبيب إلى وصف مضادات فيروسية إذا لم يتحسن وضع المريض بعد 3 أسابيع أو إذا كانت حدة الأعراض شديدة بعد 1-3 أسابيع.  
+أنواع الفيروسات المسببة للالتهاب الرئوي :
+الفيروسات الأنفية
+الفيروسات التاجية
+فيروس الانفلونزا
+الفيروس المخلوي التنفسي، اتش،
+بارينفلنزا
+أما الأشخاص حديثي الولادة، والأشخاص المصابون بالسرطان، وزارعوا  الأعضاء، والأشخاص الذين يعانون من حروق كبيرة فيكون فيروس الهربس البسيط هو الأكثر احتمالا ان يكون المسبب للالتهاب الرئوي.
+التهاب الرئة الحاد عند كبار السن:
+يصنف كبار السن الذين تزيد أعمارهم عن 65 سنة ضمن الفئة التي تشكل إصابتهم بالالتهاب الرئوي خطر حدوث مضاعفات قد تهدد حياتهم أكثر من غيرهم، كما أن معظم هذه الفئة العمرية تعاني من أمراض مزمنة قد تتدهور في وقت تزامنها مع الالتهاب الرئوي، لذلك قد يحتاج الطبيب لعلاج كبار السن في المستشفى حفاظا على حياتهم واستقرار حالتهم الصحية.
+قد يحتاج كبار السن لأخذ التدابير والاحتياطات اللازمة للوقاية من الالتهاب الرئوي أكثر من غيرهم، مثل أخذ المطاعيم السنوية والمواظبة على القيام بإرشادات الصحة العامة؛ مثل غسل اليدين وتغطية الفم والأنف خلال السعال، الإقلاع عن التدخين، استنشاق الهواء النقي والابتعاد عن مصادر التلوث.
+يعد كبار السن من أكثر الأشخاص عرضة لحدوث مضاعفات الجهاز التنفسي في حال عدم السيطرة على الالتهاب الرئوي ومنها توقف التنفس، تعفن الدم، متلازمة الضائقة التنفسية الحادة،  خراجات الرئة.
+خلافا لذلك يقوم الطبيب المختص بتحديد نوع العلاج اللازم تبعا لحدة الأعراض ونوع الالتهاب الرئوي.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>اعراض التهاب الرئة
+عادة ما تظهر كأعراض الإصابة بالزكام بداية ومن ثم تزداد سوءًا.
+من هذه الأعراض:
+الحمى
+السعال الجاف
+القشعريرة
+إفراز بلغم أخضر أو أصفر  اللون
+تعب وضيق تنفس
+تغير لون الجلد إلى الأزرق أو الأرجواني نتيجة نقص الأكسجين
+التنفس السريع
+صداع
+قيء
+إسهال
+الإحساس بألم حاد في الصدر
+صعوبة التنفس
+التعب والإرهاق
+اعراض الالتهاب الرئوي المزمن:
+الشعور بآلام في الصدر
+حدوث  التعرق الليلي
+صعوبة في التنفس
+الحمى المستمرة لأسبوع
+السعال لمدة ثلاث اسابيع وقد يكون مصحوبا بالدم في بعض الحالات
+انسداد شبه كلي في القصبات الهوائية وذلك لإفراز كميات كبيرة من المخاط وتهيج الأنسجة المبطنة للقصبات كما ويكون اختبار الدم موضح حدوث التهابات مزمنة تبعا لارتفاع خلايا الدم البيضاء في الجسم بصوره كبيرة</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>تتعدد العوامل المُسببة للالتهاب الرئوي ومنها:
+1- ما يتم اكتسابه من المجتمع المحلي عن طريق التنفس مثل البكتيريا والفيروسات والفطريات.
+2- التهاب الرئة المكتسب من المستشفيات وتحدث بعد دخول المستشفى ب 48 ساعة وتسببها البكتيريا.
+3- التهاب الرئة التنفسي والذي يحدث بسبب دخول جسم غريب الى الرئة مثل الطعام والشراب اثناء الاكل او الشرب والتقيء
+اما عن عوامل الخطورة:
+كبار السن فوق 65 عام والاطفال دون 2 عام
+ضعف المناعة
+المدخنين
+الاصابة بالامراض المزمنة مثل ( الربو, والانسداد الرئوي وامراض القلب)</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>عند الإصابة بالالتهاب الرئوي يتهيج نسيج الرئتين وتمتلئ الحويصلات الهوائية بالسوائل، ومن الممكن أن يتطور الالتهاب ويصبح مرضًا يهدد حياة الإنسان،  ما لم يتم معالجته بطريقة صحيحة خصوصا إذا كان المصاب كبير السن أو يعاني من اضطرابات أخرى في جهاز المناعة مثل عوز المناعة المكتسبة مثلًا.
+يصنف الالتهاب الرئوي تبعا لمكان الحدوث إلى قسمين:
+التهاب رئوي مجمعي وهو التهاب الذي يصاب به الأشخاص خلال أيام عملهم أو ممارسة الحياة الطبيعية.  
+التهاب رئوي مكتسب من المستشفى وهو التهاب رئوي يصاب به عادة أعضاء الطاقم الطبي أو الأشخاص الذين يزورون المستشفى بصورة دورية مثل مرضى غسيل الكلى والمرضى الذين سبق لهم وان احتجزوا في المستشفى للقيام بإجراء طبي لفترة معينة.  
+كما من الممكن أن يصنف تبعا لمسبب المرض مثل التهاب رئوي بكتيري او فيروسي او فطري.  
+التهاب الرئة الحاد 
+هو أحد أنواع الالتهاب الرئوي التي تصيب الانسان فجأة وتظهر علاماتها بصورة سريعة على عكس الالتهاب الرئوي المزمن الذي يتطور ببطء، كما يكون عادة مصحوبا بأمراض مزمنة أخرى، وغالبا ما يصيب كبار السن ويعرف بأنه الالتهاب الرئوي الذي تكون فترته اقل من 3 أسابيع.
+الالتهاب الرئوي المزمن
+هو الالتهاب الرئوي الذي يظهر على المصاب بعد تعرضه للميكروب المسبب للعدوى بعدة أيام أو أسابيع،  وهناك بعض المراجع الطبية التي تعرفه على أنه الالتهاب الرئوي الذي يستمر على الاقل لمدة 6 أسابيع.</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

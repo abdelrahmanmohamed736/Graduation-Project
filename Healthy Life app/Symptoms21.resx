@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label9.Text" xml:space="preserve">
+    <value>علاج مرض التوحد عند الأطفال
+الهدف من العلاج هو جعل الأطفال التوحديين قادرين على الاندماج في المدارس الخاصة بهم، وتطوير علاقة هادفة مع أقرانهم وتعزيز إمكانية العيش باستقلالية في الكبر.
+ويعتبر التدخل الفردي المكثف (سلوكي، تثقيفي ونفسي) العلاج الأكثر فعالية.
+وكلما بدأنا كان التدخل المبكر كلما كانت النتيجة مرضية نوعاً ما.
+ويتمثل العلاج التثقيقي بإرسال طفل التوحد الى مدارس متفرغة للتعليم الخاص (اضافة الى العلاج السلوكي).
+كذلك فإن توفير برنامج لتدريب الأهل على تطبيق العلاج السلوكي في البيت لخلق تناسق بين الأساليب المستعملة في المدرسة والأساليب المستعملة في البيت يساعد على التسريع في اكتساب الطفل المهارات اللغوية والإدراكية والاجتماعية.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>تظهر معظم أعراض مرض التوحد للأهل خلال السنة الثانية أو الثالثة من العمر، حيث يُلاحظ تأخر تطور الطفل، وخاصة التأخير في تطور اللغة.
+ويلاحظ على الطفل المصاب بالتوحد ميزات جسدية وآخر سلوكية،
+الميزات الجسدية للمصابين بالتوحد
+قد يُلاحظ على مريض التوحد بعض التشوهات الخلقية البسيطة، مثل تشوهات في الأذن الخارجية وتشوهات أخرى.
+قد يكون لدى بعضهم القدرة على استعمال كلتا اليدين ببراعة متساوية في جميع الفترات العمرية.
+قد يلاحظ وجود شذوذ في الرسم الجلدي في بصمات اليدين (والأصابع تحديداً) مقارنة مع باقي الأطفال غير التوحديين.
+علامات التوحد السلوكية عند الأطفال
+  قصور نوعي في التفاعل الاجتماعي
+لا يظهر الطفل التوحدي التودد والملاطفة الاجتماعية المتبادلة والمتوقعة، والتي تدل على التعلق والتفاعل مع والديه أو أفراد عائلته وهذه تظهر في أعراض التوحد البسيط عند الأطفال. 
+فمثلاً، يلاحظ على الطفل الرضيع انعدام أو غياب الابتسامة المتبادلة والمعهودة لدى الأطفال الرضع الطبيعيين، وخاصة لدى مداعبتهم. كذلك لا يستمتع في حال قيام الأهل بحمله أو ضمه اليهم، حتى أنه لا يقوم بمد أو رفع يديه مشيراً الى رغبته بأن يُحضن أو يُرفع بين أكتاف والدته.
+وعندما تحاول والدته ذلك فمن المحتمل أن يقاومها ويتلوى ويتضايق بشدة. كذلك فإنه قليل (أو لا يُحسن) التواصل مع أهله عن طريق النظرات بالأعين.
+وعندما يصل سن الطفولة المبكرة سنتين أو ثلاث سنوات من العمر يلاحظ عليه الانعزال والوحدة ورغبته باللعب لوحده مما يؤدي إلى عدم سماحه لأحد (كباراً أو صغاراً) مشاركته بنشاطه.
+وفي حال إلحاق الأذى به (أي في حال جرحه أو ضربه من قبل الآخرين) أو في حال استفزازه، أو حتى إيذائه نفسياً وعاطفياً، لا يلجأ لأهله طالباً العون والسلوى والمواساة. ويلاحظ أيضاً صعوبة تمييزه لأهله أو أبويه عن باقي الناس، ولا يظهر أي قلق عندما يُترك مع شخص غريب. ومع ذلك فإنه ينزعج في حال إجراء أي تغيير في معاملته العادية.
+ وعندما يصل طفل التوحد سن الذهاب الى المدرسة (عادة ما بين سن 5 الى 7 سنوات من العمر)، فمن المحتمل أن تقل سلوكياته الانعزالية. غير أنه يعاني من نقص في مهارة كسب الرفاق، ولا يرغب حتى في اللعب معهم، وقد يلعب لوحده لكن ليس بعيداً عنهم. وتتسم سلوكياته الاجتماعية بعدم اللباقة وغير الملائمة.
+وأما من الناحية المعرفية فإن الطفل المصاب بمرض التوحد أكثر مهارة في الواجبات والفروض المدرسية التي تتطلب استخدام حاسة البصر (المهام الحيز – بصرية)، مقارنة مع الفروض والواجبات التي تتطلب مهارات الكلام.
+وفي سن البلوغ (اليفع) نلاحظ رغبة مريض التوحد في إقامة علاقة صداقة مع الآخرين من جيله، غير أن صعوبة التجاوب مع اهتمامات وأحاسيس وشعور الآخرين، تقف حجر عثرة في تحقيق أو نجاح الصداقة. وقد يصل الأمر الى أن ينبذ من قبل الآخرين بسبب سلوكياته الغريبة وغير اللبقة، مما يؤدي الى بقائه منعزلاً.
+وبخصوص الشعور العاطفي والجنسي، فإن النساء والرجال التوحديين أناس عاديون مثلهم مثل الآخرين، لديهم الرغبة العاطفية والجنسية، غير أنه بسبب عوزهم للمهارات التواصلية، يفشل العديد منهم في كسب عطف ومحبة الطرف الآخر.
+ويفتقر المصاب بالتوحد الى التبادل الاجتماعي والعاطفي، ونعني بذلك عدم احساسه وتعاطفه مع مشاعر وعواطف الآخرين، سواء كانت مشاعر ود أو عداء، حزينة أو سارة، أي عدم اداركه لوجود مشاعر عند الآخرين من الناس، فيعاملهم وكأنهم قطع من الأثاث.
+كذلك لا يشعر الشخص التوحدي مع الإنسان الذي يبدو عليه الضيق، ولا يدرك حاجة الآخرين الى الخصوصية، ولا يقوم يتغيير سلوكياته بناء على السياق والتغير المجتمعي أو البيئي.
+قصور نوعي في التواصل
+يعتبر القصور في تطور اللغه وتأخرها وصعوبة استخدامها في التعبير والتواصل مع الآخرين اضافة الى شذوذها، من المعايير الأساسية في تشخيص مرض التوحد.
+ومن المهم ذكره ان صعوبات اللغة المذكورة سابقاً لدى الأطفال المصابية بالتوحد ليست نتيجة امتناعهم عن التكلم او غياب الحافز لديهم في التكلم، بل هي نتيجة قصور تطوري.
+وبخلاف الأطفال الطبيعيين، وحتى الأطفال المتخلفين عقلياً، فإن التوحديين يواجهون صعوبة في ربط الجمل المفيدة معاً (حتى لو كانوا يملكون ذخيرة كبيرة من المفردات). وحتى في حال تعلم طفل التوحد الحديث بطلاقة فإنه لا يهتم لرد فعل الشخص الموجه اليه الحديث.
+وخلال السنة الأولى من حياة طفل التوحد تكون 'تأتأته' ضئيله او غير طبيعية. ويصدر بعضهم اصواتاً بشكل تكراري مستمر (نمطي)، مثل، طقطقة، صراخ مفزع، وتلفظات لا معنى لها (هراء)، دون ان يكون لها هدف تواصلي. وقد يردد ويعيد تكرار دائم لكلمات او مقطع من جملة يسمعها من اشخاص آخرين (قد تكون موجهة اليه او لا تكون موجهة له)، وتسمى هذه الظاهرة 'صداء لفظي' Echolalia. وقد يصاحب ذلك ظاهرة تسمى 'الضمير المعكوس'، فمثلاً قول طفل التوحد 'انت تريد' بدلاً من قول 'انا اريد' اي انه يستخدم الضمير 'انت' بدلاً من 'انا' والعكس صحيح، وهذه من المشاكل التي يجد المدرسون والأهل صعوبة في التغلب عليها. وعند نحو 51 في المئة من الأطفال المصابين بالتوحد لا يتطور لديهم الكلام والحديث والجمل المفيدة وذات المعنى.
+غير ان بعض الأطفال الأذكياء يظهرون افتتاناً خاصاً واستثنائياً بالأحرف والأرقام. واحياناً قد يبدعون ويتفوقون في مهام ومجالات معينة، او قد يملكون قدرات ومواهب خاصة وفريدة، فمثلاً، من المحتمل ان يتعلم الطفل التوحدي القراءة بطلاقة في سن ما قبل دخول المدرسة (الروضة)، بشكل مدهش، وتسمى هذه الظاهرة 'فرط تعلم القراءة' Hyperlexia.
+ويتراوح حاصل ذكاء (IQ) هؤلاء الأطفال من 90 الي 110 (طبيعي). وتكون مقدرة قراءة الكلمات عندهم فوق ما يتوقع من عمرهم. ومع ذلك فإن البعض منهم يعانون من صعوبة فهم ما يقرأون. وتتراوح نسبة الأطفال التوحديين الذين يمتازون بالقراءة من 5 الى 10 في المئة من مجموع الأطفال المصابين بمرض التوحد. وكما ذكرت سابقاً فإن هؤلاء الأطفال يفتتنون بالأحرف والأرقام، لذلك نراهم ينجحون في تحليل اللغة المكتوبة، ونتيجة هذا يتقنون القراءة في عمر مبكر. ويلاحظ انه يكون باستطاعة بعض هؤلاء الأطفال تهجئة كلمة طويلة، مثل، برتقال، تلفزيون، قبل سن سنتين من العمر، وقراءة جملة مفيدة كاملة قبل ثلاث سنوات من عمرهم.
+أسلوب محدود من السلوكيات والاهتمامات والنشاطات التكرارية (النمطية)
+تعرف النمطية بأنها تكرار الأعمال او الحركات تلقائياً، وعلى نمط معين، اي تكرار حركات غير معقولة، ودون معنى، وغير هادفة وبشكل منتظم، مثل: هز الرأس المتكرر، التلويح او التصفيق باليدين لمدة طويلة ودون توقف، وهز وارجحة الجسم بشكل متكرر.
+من اعراض طيف التوحد autism spectrum أن يُصر الطفل التوحدي بطريقة غير طبيعية على اتباع نفس النمط من الحياة والنشاط ومقاومة التغيير، مثل: الإصرار على اتباع نفس الطريق الى المدرسة، وينزعج عند محاولة تغيير هذه الطريق والطلب منه ان يسلك طريقاً بديلة وقصيرة، توصله الى المدرسة بأسرع من الوقت المعتاد. ويرفض تناول الطعام اذا لم تعد المائدة بالأسلوب المعتاد يومياً، وينفعل وينزعج في حال تغير المكان المألوف للكرسي او للطاولة في الغرفة، او الإنتقال الى بيت جديد، او في حال تغير روتين تناول الطعام، فمثلاً عادة الإستحمام قبل تناول الطعام بعد ان كان قد تعود ان يفعل العكس.
+وقد يثير التغيير المفاجئ في حياة الطفل نوبة من الفزع والخوف او نوبة 'عصبية-مزاجية' Temper Tantrums والتي تتمثل بجيشان عاطفي وهيجان وغضب ويقوم برفس الأشخاص من حوله، ويرمي نفسه على الأرض، ويكبح (يحبس) نفسه حتى يصبح أزرق اللون.
+كذلك فإن الطفل التوحدي يتعلق باشياء معينة وإستثنائية، اي انه يتعلق بأشياء غير اعتيادية، مثل: عند ذهابه للنوم يتعلق او يقوم بإحتضان علبة من الكرتون او صفيحة او وعاء معدني (في حين يحتضن الطفل السليم دمية او حيواناً اليفاً لدى خلوده للنوم). وعدا ذلك نلاحظ ان الطفل التوحدي ينشغل ويلهو باستمرار بأجزاء الأشياء (الدمى، الألعاب، السيارات..) وقد ينجذب لرائحتها او ملمس سطحها او الأصوات والضجيج الصادر عنها اثناء عملها او تشغيلها، او نتيجة اهتزازها وبشكل غريب (مثل اصدار الدمية لأصوات او كلام معين اثناء هزها او قلبها يميناً ويساراً). وأستطيع القول إن الطفل التوحدي يلعب ويلهو بالدمى والألعاب والأشياء بطريقة فريدة.
+ ويلاحظ في السنة الأولى من عمر الطفل التوحدي غياب اللعب الاستكشافي المتوقع في هذه السن، ولا يلعب الأطفال التوحديون ألعاباً تخيلية ولا يقومون بتمثيل ايمائي. وجميع نشاطات ولعب هؤلاء الأطفال يكون غالباً جاسئ (صارم)، تكراري، وعلى وتيرة واحدة وممل، وغالباً يقوم التوحديون بضرب ورمي الأشياء بعنف، ويظهرون تعلقاً شديداً بالجماد، مثل علبة شراب فارغة، سلك كهرباء.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>إن أسباب الإصابة بالتوحد غير معروفة. ليس هناك سبب واحد معروف لمرض التوحد Autism، ولكن من المتعارف عليه أن يكون ناتجا عن خلل في بنية الدماغ أو وظيفته. 
+العوامل الجينية
+أشارت الدراسات إلى زيادة في معدل إصابة أشقاء الطفل التوحدي بمرض التوحد بمقدار يتراوح بين 49-199 مرة.
+أضف الى ذلك أنه في حال عدم إصابة أشقاء طفل التوحد بالتوحد، فهم معرضون للإصابة باضطرابات أخرى لها علاقة بتواصل المهارات الاجتماعية.
+كذلك فقد أظهرت التحاليل الترابطية (الإسهامية) إلى أن مناطق معينة من الكروموسومات 7 و 2 و 4 و 15 و 19 من المرجح أنها تساهم في الأساس الجيني للتوحد.
+كذلك فإن نسبة ظهور مرض التوحد لدى التوأمين المتشابهين (وحيدي اللاقحة) أكثر من التوأمين غير المتشابهين (ازدواجيي اللاقحة).
+أشارت الدراسات أيضاً الى أن الأطفال المصابين بالتوحد قد يعانون من بعض الاضطرابات الجينية :
+- فمثلاً 1% من الأطفال الذين لديهم توحد يعانون أيضاً من متلازمة الكروموسوم الهش X. Fragile Syndrome
+- في حين 2% من أطفال المصابين بمرض التوحد عرضة للإصابة بمرض التصّلب الحَدَبي Tuberous Sclerosis.
+- بيلةُ الفينيل كيتون إذا لم يعالج.
+العوامل البيولوجية
+  تؤكد المعلومة العلمية، التي تُظهر أن نسبة عالية من الأطفال التوحديين تعاني من التخلف العقلي، ونسبة أكثر من المتوقع أن تعاني من الصرع Epilepsy  نحو 4 الى 32 في المئة من الأشخاص التوحديين يعانون (أو عانوا في فترة زمنية معينة من حياتهم) من الصرع 'التوتري – الارتجاجي' Tonic – Clonicأو ما يعرف باسم 'الصرع الكبير' Grand mal وقد أظهر تخطيط كهربائية الدماغ  EEG العديد من التسجيلات غير الطبيعية عند نحو 11 – 83 في المئة من مرضى التوحد.
+ و هذا يؤكد على الدور المهم للعامل البيولوجي في إصابة الطفل بالتوحد.
+وقد أشارت الدراسات العديدة الى أن نحو ثلثي الأطفال التوحديين (69 في المئة تقريباً) مصابون بالتخلف العقلي.
+كذلك فقد يصاحب التوحد حالات مرضية عصبية، وخاصة الحصبة الخلقية Congenital Rubella وبيلة الفنيل كيتون Phenylketonuria والتصلب المعجر.
+العوامل المناعية
+أشارت العديد من الأبحاث والدراسات الى أن عدم التوافق المناعي Immunological Incompatibility قد يكون من أسباب التوحد، حيث تبين أن كريات الدم البيضاء من النوع اللمفاوي Lymphocytes التي تخص الجنين قد تتفاعل مع الأجسام المضادة للأم، والذي بدوره يرفع إمكانية تلف أو خراب النسيج العصبي للجنين.
+العوامل حول الولادة
+أشارت دراسة حديثة الى أن التاريخ المرضي للأطفال التوحديين يشير الى أن نسبة اصابة أمهاتهم بالنزيف بعد الثلث الأول من الحمل، إضافة الى وجود عقي (غائط الجنين) في السائل الأمنيوني عالية مقارنة مع باقي الأطفال. كذلك فقد أشارت نفس الدراسة الى أن التاريخ المرضي لأطفال التوحد يشير الى أن نسبة إصابتهم بفقر الدم Anemia ومتلازمة الضائقة التنفسية Respiratory Distress Syndrome في الشهر الأول بعد الولادة عالية مقارنة مع باقي الأطفال، وأن الأطفال التوحديين يكونون أكثر وزناً لدى الولادة.
+العوامل الدماغية
+أشارت عدة دراسات الى أن نسبة ارتفاع الناقل العصبي 'السيروتونين' Serotonin في دم الأطفال المصابين بطيف التوحد autism spectrum (الذين لا يعانون أيضاً من التخلف العقلي) مرتفعة بشكل ملحوظ.
+كذلك فقد أشارت نفس الدراسة الى تضخم المادتين الرمادية (السنجابية) والبيضاء في المخ لدى طفل التوحد في سن سنتين (غير أن المخيخ يبقى سليماً).
+كذلك فقد لوحظ عند الأطفال المذكورين سابقاً كبر محيط الرأس في سن 12 شهراً. وقد يعود ذلك الى تضخم كل من الفص الصدغي Temporal Lobe والقذالي Occipital Lobe والجداري Parietal Lobe، في حين لم يطرأ تغير على الفص الجبهي Frontal Lobe.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>التَّوَحُّد Autism هو اضطراب يُلاحظ على الطفل عادةً منذ الطفولة الباكرة , ويؤثر على نموه وتطوره 
+وتختلف مظاهر وميزات طيف التوحد اختلافاً كبيراً، وذلك حسب مستوى التطور والعمر الزمني للفرد. مرض التوحد يصيب الصبيان 3- 4 مرات أكثر من الفتيات.
+يتميز بتطور غير طبيعي أو قاصر، يظهر قبل سن ثلاث سنوات من العمر، وخلل وظيفي في التفاعل الاجتماعي المتبادل وفي التواصل. وسلوكيات نمطية تكرارية محدودة.
+التعريف بمرض التوحد حسب الجمعية الأمريكية:
+جمعية التوحديين في الولايات المتحدة الأمريكية ، تعرّف مرض التوحد، بأنه عجز تطوري معقد، يظهر نموذجياً خلال السنوات الثلاث الأولى من العمر، وهو نتيجة اضطراب عصبي يؤثر في وظيفة الدماغ الطبيعية، وفي مجالات التفاعل الاجتماعي ومهارات التواصل.
+سمات طيف التوحد:
+ويُظهر الأشخاص (الأطفال والبالغون) المصابين بمرض التوحد او طيف التوحد autism spectrum disorder صعوبة في التواصل الكلامي وغير الكلامي وفي التفاعل الاجتماعي وفي اللعب واللهو والنشاط، أثناء ساعات الفراغ.
+وينتمي مرض التوحد الى مجموعة من خمسة اضطرابات نمائية – عصبية، تتميز بقصور شديد وشامل في عدة مجالات تطورية. </value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

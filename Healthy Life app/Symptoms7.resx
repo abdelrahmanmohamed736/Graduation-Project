@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label9.Text" xml:space="preserve">
+    <value>تحليل الكرياتينين 
+مستويات الكرياتينين في البول عشوائي و ليس لديه نطاق مرجعي معياري.
+وعادة ما يتم استخدامه مع اختبارات أخرى إلى مستويات مرجعية لقياس المواد الأخرى في البول.
+وتشمل بعض الأمثلة على اختبار microalbumin ونسبة microalbumin / الكرياتينين واختبار بروتين البول.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>يتم إجراء اختبار كرياتينين الدم لتقييم مستوى الكرياتيتنين في الجسم في حال ظهور أي من أعراض أمراض الكلى بما في ذلك : 
+الشعور بالتعب ومشاكل في النوم. 
+فقدان الشهية .
+تغير في كمية البول أو عدد مرات التبول.
+ألم في أسفل الظهر بالقرب من الكلى. 
+ارتفاع ضغط الدم.
+الغثيان والقيء.
+تورم في البطن، الكاحلين، الرسغين، الوجه. </value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>أسباب ارتفاع الكرياتينين 
+زيادة مستويات الكرياتينين في الدم تشير إلى أمراض أو الظروف التي تؤثر على وظيفة الكلى. ويمكن لهذه تشمل: 
+الأضرار التي لحقت أو تورم الأوعية الدموية في الكلى كما في التهاب كبيبات الكلى الناتج عن العدوى أو أمراض المناعة الذاتية.
+ العدوى البكتيرية في الكلى (التهاب الحويضة والكلية).
+ موت الخلايا في أنابيب الكلى الصغيرة كما في مرض النخر الأنبوبي الحاد المصاحب لتناول المخدرات أو السموم. 
+ مرض البروستات، حصى الكلى، أو لأسباب أخرى من انسداد المسالك البولية. 
+ انخفاض تدفق الدم إلى الكلى بسبب الصدمة، الجفاف، فشل القلب الاحتقاني، تصلب الشرايين، أومضاعفات السكري.
+ يمكن لمستويات الكرياتينين في الدم تزيد أيضا بصورة مؤقتة نتيجة للاصابة في العضلات وعادة ما تكون أقل قليلاً أثناء الحمل. 
+لمزيد من المعلومات، اقرأ هنا: علاج ارتفاع الكرياتينين بالأعشاب. 
+أسباب انخفاض الكرياتينين
+كبار السن. 
+الرضع.
+المرضى الذين يعانون من سوء التغذية وفقدان الوزن الشديد. 
+الأمراض طويلة الأمد التي يصاحبها تقلص في الكتلة العضلية. </value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>هو منتج مشتق من فوسفات الكرياتين(وهو جزيء يلعب دور مهم في إنتاج الطاقة في العضلات)، وينتج عادة بمعدل ثابت إلى حد كبير من قبل الجسم (اعتمادا على كتلة العضلات).
+كيميائياً، الكرياتينين هو مشتق دوري للكرياتين.
+يومياً، يتم تحول 2% من الكرياتين الى الكرياتينين في الجسم. 
+ينتقل الكرياتينين عبر مجرى الدم الى الكلى، حيث يتم تصفية الكرياتينين والتخلص منه عبر البول. 
+عن ماذا يعبّر مستوى الكرياتينين:
+الكرياتينين يستخلص من الدم عن طريق الكلى، على الرغم من وجود كمية صغيرة تفرز بنشاط عن طريق الكلى في البول. يرتفع في الدم عندما تقل تصفيته من الكلى.
+ولذلك، يمكن استخدام مستويات الكرياتينين في الدم والبول لحساب نقاء الكرياتينين (CrCl)، مما يعكس معدل الترشيح الكبيبي (GFR).
+معدل الترشيح الكبيبي مهم سريرياً لأنه مقياس لوظيفة الكلى.
+أي ضعف في وظائف الكلى لأي سبب من الأسباب ينتج عنه ارتفاع في مستوى الكرياتينين في الدم.
+نسبة الكرياتينين الطبيعية
+الرجال لديهم مستويات أعلى من الكرياتينين إذ أنهم أكثر قوة في العضلات والهيكل العظمي من النساء.
+كما ثبت أن النباتيون لديهم مستويات منخفضة من الكرياتينين.
+نسبة الكرياتينين الطبيعية في الدم تساوي تقريباً من 0.6-1.2 ملليغرام لكل ديسيلتر (ملغم/دل) في الذكور البالغين بينما يبلغ 0.5-1.1 ملغم/دل في الإناث البالغات.
+قد يكون لدى الشباب العضليين نسبة أعلى من الكرياتينين في الدم ( زيادة في الكتلة العضلية = زيادة في مستوى الكرياتينين). 
+المسنين، قد تكون لديهم نسبة أقل الكرياتينين في الدم.
+الرضع لديهم مستويات طبيعية من حوالي 0.2 ملغم/دل أو أكثر، اعتماداً على تطوير عضلاتهم.  
+الشخص مع كلية واحدة فقط قد يكون المستوى الطبيعي في حدود 1.8 أو 1.9 ملغم/دل.
+نسبة الكرياتينين الخطرة
+مستويات الكرياتينين التي تصل إلى 2.0 ملغم/دل أو أكثر في الأطفال أو 5.0 ملغم/دل أو أكثر في البالغين قد يشير إلى الحاجة إلى آلة غسيل الكلى لإزالة النفايات من الدم. 
+انخفاض الكرياتينين في الدم 
+ مستويات الكرياتينين المنخفضة في الدم ليست شائعة، لكنها أيضاً لا تدعو للقلق. يمكن أن ينظر إليها مع الظروف التي تؤدي إلى انخفاض كتلة العضلات. 
+ يتم تقييم مستويات الكرياتينين على مدار 24 ساعة في البول مع مستويات كرياتينين الدم كجزء من اختبار تصفية الكرياتينين.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

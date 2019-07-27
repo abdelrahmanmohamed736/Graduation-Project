@@ -1,0 +1,1185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A3E0943-B31F-43BC-8029-A469FF5FEF06}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Healthy_Life_app</RootNamespace>
+    <AssemblyName>Healthy Life app</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.9.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=1.6.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton, Version=1.6.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.ToggleSwitch">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu-UI-WinForms-1.6.0.1\Bunifu UI WinForms 1.6.0.1\Bunifu.UI.WinForms.ToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Microsoft Visual Studio Ultimate 2013 en-US x86 Nov8-2013\Bunifu UI WinForms 1.9.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnswersQuestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnswersQuestions.Designer.cs">
+      <DependentUpon>AnswersQuestions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\UserInfo.cs" />
+    <Compile Include="DoctorConsulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorConsulation.Designer.cs">
+      <DependentUpon>DoctorConsulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcid19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcid19.Designer.cs">
+      <DependentUpon>FirstAcid19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids10.Designer.cs">
+      <DependentUpon>FirstAcids10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids11.Designer.cs">
+      <DependentUpon>FirstAcids11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids12.Designer.cs">
+      <DependentUpon>FirstAcids12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids13.Designer.cs">
+      <DependentUpon>FirstAcids13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids14.Designer.cs">
+      <DependentUpon>FirstAcids14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids15.Designer.cs">
+      <DependentUpon>FirstAcids15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids16.Designer.cs">
+      <DependentUpon>FirstAcids16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids17.Designer.cs">
+      <DependentUpon>FirstAcids17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids18.Designer.cs">
+      <DependentUpon>FirstAcids18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids20.Designer.cs">
+      <DependentUpon>FirstAcids20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids21.Designer.cs">
+      <DependentUpon>FirstAcids21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids22.Designer.cs">
+      <DependentUpon>FirstAcids22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids23.Designer.cs">
+      <DependentUpon>FirstAcids23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids24.Designer.cs">
+      <DependentUpon>FirstAcids24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids25.Designer.cs">
+      <DependentUpon>FirstAcids25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids26.Designer.cs">
+      <DependentUpon>FirstAcids26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids27.Designer.cs">
+      <DependentUpon>FirstAcids27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids28.Designer.cs">
+      <DependentUpon>FirstAcids28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids29.Designer.cs">
+      <DependentUpon>FirstAcids29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids30.Designer.cs">
+      <DependentUpon>FirstAcids30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAcids8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAcids8.Designer.cs">
+      <DependentUpon>FirstAcids8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids.Designer.cs">
+      <DependentUpon>FirstAids.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids1.Designer.cs">
+      <DependentUpon>FirstAids1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids2.Designer.cs">
+      <DependentUpon>FirstAids2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids3.Designer.cs">
+      <DependentUpon>FirstAids3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids5.Designer.cs">
+      <DependentUpon>FirstAids5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids6.Designer.cs">
+      <DependentUpon>FirstAids6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAids7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAids7.Designer.cs">
+      <DependentUpon>FirstAids7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstAidsBasics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FirstAidsBasics.Designer.cs">
+      <DependentUpon>FirstAidsBasics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FisrtAcids9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FisrtAcids9.Designer.cs">
+      <DependentUpon>FisrtAcids9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FisrtAids4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FisrtAids4.Designer.cs">
+      <DependentUpon>FisrtAids4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConsulting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConsulting.Designer.cs">
+      <DependentUpon>FormConsulting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormForgetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormForgetPass.Designer.cs">
+      <DependentUpon>FormForgetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPartsMedical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPartsMedical.Designer.cs">
+      <DependentUpon>FormPartsMedical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMyAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMyAccount.Designer.cs">
+      <DependentUpon>FormMyAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPartsMedicalDoctorAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPartsMedicalDoctorAccess.Designer.cs">
+      <DependentUpon>FormPartsMedicalDoctorAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegister.Designer.cs">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServices.Designer.cs">
+      <DependentUpon>FormServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalsInfo.Designer.cs">
+      <DependentUpon>HospitalsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KnoweldgeSociety.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KnoweldgeSociety.Designer.cs">
+      <DependentUpon>KnoweldgeSociety.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines.Designer.cs">
+      <DependentUpon>Medecines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines1.Designer.cs">
+      <DependentUpon>Medecines1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines10.Designer.cs">
+      <DependentUpon>Medecines10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines11.Designer.cs">
+      <DependentUpon>Medecines11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines12.Designer.cs">
+      <DependentUpon>Medecines12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines13.Designer.cs">
+      <DependentUpon>Medecines13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines14.Designer.cs">
+      <DependentUpon>Medecines14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines15.Designer.cs">
+      <DependentUpon>Medecines15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines16.Designer.cs">
+      <DependentUpon>Medecines16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines17.Designer.cs">
+      <DependentUpon>Medecines17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines18.Designer.cs">
+      <DependentUpon>Medecines18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines19.Designer.cs">
+      <DependentUpon>Medecines19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines2.Designer.cs">
+      <DependentUpon>Medecines2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines20.Designer.cs">
+      <DependentUpon>Medecines20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines21.Designer.cs">
+      <DependentUpon>Medecines21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines22.Designer.cs">
+      <DependentUpon>Medecines22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines23.Designer.cs">
+      <DependentUpon>Medecines23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines24.Designer.cs">
+      <DependentUpon>Medecines24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines25.Designer.cs">
+      <DependentUpon>Medecines25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines26.Designer.cs">
+      <DependentUpon>Medecines26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines27.Designer.cs">
+      <DependentUpon>Medecines27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines28.Designer.cs">
+      <DependentUpon>Medecines28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines29.Designer.cs">
+      <DependentUpon>Medecines29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines3.Designer.cs">
+      <DependentUpon>Medecines3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines30.Designer.cs">
+      <DependentUpon>Medecines30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines4.Designer.cs">
+      <DependentUpon>Medecines4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines5.Designer.cs">
+      <DependentUpon>Medecines5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines6.Designer.cs">
+      <DependentUpon>Medecines6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines7.Designer.cs">
+      <DependentUpon>Medecines7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines8.Designer.cs">
+      <DependentUpon>Medecines8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Medecines9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Medecines9.Designer.cs">
+      <DependentUpon>Medecines9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniaDoctors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniaDoctors.Designer.cs">
+      <DependentUpon>MiniaDoctors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniaHospitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniaHospitals.Designer.cs">
+      <DependentUpon>MiniaHospitals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NearHospitals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NearHospitals.Designer.cs">
+      <DependentUpon>NearHospitals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAddedMedecines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAddedMedecines.Designer.cs">
+      <DependentUpon>NewAddedMedecines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAddedSymptoms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAddedSymptoms.Designer.cs">
+      <DependentUpon>NewAddedSymptoms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewKnowledgeSoceity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewKnowledgeSoceity.Designer.cs">
+      <DependentUpon>NewKnowledgeSoceity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSymptoms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSymptoms.Designer.cs">
+      <DependentUpon>NewSymptoms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewMedicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewMedicine.Designer.cs">
+      <DependentUpon>NewMedicine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AskQuestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AskQuestion.Designer.cs">
+      <DependentUpon>AskQuestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms.Designer.cs">
+      <DependentUpon>Symptoms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms1.Designer.cs">
+      <DependentUpon>Symptoms1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms10.Designer.cs">
+      <DependentUpon>Symptoms10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms11.Designer.cs">
+      <DependentUpon>Symptoms11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms12.Designer.cs">
+      <DependentUpon>Symptoms12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms13.Designer.cs">
+      <DependentUpon>Symptoms13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms14.Designer.cs">
+      <DependentUpon>Symptoms14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms15.Designer.cs">
+      <DependentUpon>Symptoms15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms16.Designer.cs">
+      <DependentUpon>Symptoms16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms17.Designer.cs">
+      <DependentUpon>Symptoms17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms18.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms18.Designer.cs">
+      <DependentUpon>Symptoms18.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms19.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms19.Designer.cs">
+      <DependentUpon>Symptoms19.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms2.Designer.cs">
+      <DependentUpon>Symptoms2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms20.Designer.cs">
+      <DependentUpon>Symptoms20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms21.Designer.cs">
+      <DependentUpon>Symptoms21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms22.Designer.cs">
+      <DependentUpon>Symptoms22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms23.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms23.Designer.cs">
+      <DependentUpon>Symptoms23.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms24.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms24.Designer.cs">
+      <DependentUpon>Symptoms24.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms25.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms25.Designer.cs">
+      <DependentUpon>Symptoms25.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms26.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms26.Designer.cs">
+      <DependentUpon>Symptoms26.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms27.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms27.Designer.cs">
+      <DependentUpon>Symptoms27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms28.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms28.Designer.cs">
+      <DependentUpon>Symptoms28.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms29.Designer.cs">
+      <DependentUpon>Symptoms29.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms3.Designer.cs">
+      <DependentUpon>Symptoms3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms30.Designer.cs">
+      <DependentUpon>Symptoms30.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms4.Designer.cs">
+      <DependentUpon>Symptoms4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms5.Designer.cs">
+      <DependentUpon>Symptoms5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms6.Designer.cs">
+      <DependentUpon>Symptoms6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms7.Designer.cs">
+      <DependentUpon>Symptoms7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms8.Designer.cs">
+      <DependentUpon>Symptoms8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptoms9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptoms9.Designer.cs">
+      <DependentUpon>Symptoms9.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnswersQuestions.resx">
+      <DependentUpon>AnswersQuestions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoctorConsulation.resx">
+      <DependentUpon>DoctorConsulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcid19.resx">
+      <DependentUpon>FirstAcid19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids10.resx">
+      <DependentUpon>FirstAcids10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids11.resx">
+      <DependentUpon>FirstAcids11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids12.resx">
+      <DependentUpon>FirstAcids12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids13.resx">
+      <DependentUpon>FirstAcids13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids14.resx">
+      <DependentUpon>FirstAcids14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids15.resx">
+      <DependentUpon>FirstAcids15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids16.resx">
+      <DependentUpon>FirstAcids16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids17.resx">
+      <DependentUpon>FirstAcids17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids18.resx">
+      <DependentUpon>FirstAcids18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids20.resx">
+      <DependentUpon>FirstAcids20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids21.resx">
+      <DependentUpon>FirstAcids21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids22.resx">
+      <DependentUpon>FirstAcids22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids23.resx">
+      <DependentUpon>FirstAcids23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids24.resx">
+      <DependentUpon>FirstAcids24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids25.resx">
+      <DependentUpon>FirstAcids25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids26.resx">
+      <DependentUpon>FirstAcids26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids27.resx">
+      <DependentUpon>FirstAcids27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids28.resx">
+      <DependentUpon>FirstAcids28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids29.resx">
+      <DependentUpon>FirstAcids29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids30.resx">
+      <DependentUpon>FirstAcids30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAcids8.resx">
+      <DependentUpon>FirstAcids8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids.resx">
+      <DependentUpon>FirstAids.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids1.resx">
+      <DependentUpon>FirstAids1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids2.resx">
+      <DependentUpon>FirstAids2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids3.resx">
+      <DependentUpon>FirstAids3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids5.resx">
+      <DependentUpon>FirstAids5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids6.resx">
+      <DependentUpon>FirstAids6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAids7.resx">
+      <DependentUpon>FirstAids7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FirstAidsBasics.resx">
+      <DependentUpon>FirstAidsBasics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FisrtAcids9.resx">
+      <DependentUpon>FisrtAcids9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FisrtAids4.resx">
+      <DependentUpon>FisrtAids4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConsulting.resx">
+      <DependentUpon>FormConsulting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormForgetPass.resx">
+      <DependentUpon>FormForgetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPartsMedical.resx">
+      <DependentUpon>FormPartsMedical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMyAccount.resx">
+      <DependentUpon>FormMyAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPartsMedicalDoctorAccess.resx">
+      <DependentUpon>FormPartsMedicalDoctorAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegister.resx">
+      <DependentUpon>FormRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServices.ar.resx">
+      <DependentUpon>FormServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServices.resx">
+      <DependentUpon>FormServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HospitalsInfo.resx">
+      <DependentUpon>HospitalsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KnoweldgeSociety.resx">
+      <DependentUpon>KnoweldgeSociety.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines.resx">
+      <DependentUpon>Medecines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines1.resx">
+      <DependentUpon>Medecines1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines10.resx">
+      <DependentUpon>Medecines10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines11.resx">
+      <DependentUpon>Medecines11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines12.resx">
+      <DependentUpon>Medecines12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines13.resx">
+      <DependentUpon>Medecines13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines14.resx">
+      <DependentUpon>Medecines14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines15.resx">
+      <DependentUpon>Medecines15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines16.resx">
+      <DependentUpon>Medecines16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines17.resx">
+      <DependentUpon>Medecines17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines18.resx">
+      <DependentUpon>Medecines18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines19.resx">
+      <DependentUpon>Medecines19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines2.resx">
+      <DependentUpon>Medecines2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines20.resx">
+      <DependentUpon>Medecines20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines21.resx">
+      <DependentUpon>Medecines21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines22.resx">
+      <DependentUpon>Medecines22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines23.resx">
+      <DependentUpon>Medecines23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines24.resx">
+      <DependentUpon>Medecines24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines25.resx">
+      <DependentUpon>Medecines25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines26.resx">
+      <DependentUpon>Medecines26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines27.resx">
+      <DependentUpon>Medecines27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines28.resx">
+      <DependentUpon>Medecines28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines29.resx">
+      <DependentUpon>Medecines29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines3.resx">
+      <DependentUpon>Medecines3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines30.resx">
+      <DependentUpon>Medecines30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines4.resx">
+      <DependentUpon>Medecines4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines5.resx">
+      <DependentUpon>Medecines5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines6.resx">
+      <DependentUpon>Medecines6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines7.resx">
+      <DependentUpon>Medecines7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines8.resx">
+      <DependentUpon>Medecines8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Medecines9.resx">
+      <DependentUpon>Medecines9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniaDoctors.resx">
+      <DependentUpon>MiniaDoctors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniaHospitals.resx">
+      <DependentUpon>MiniaHospitals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NearHospitals.resx">
+      <DependentUpon>NearHospitals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAddedMedecines.resx">
+      <DependentUpon>NewAddedMedecines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAddedSymptoms.resx">
+      <DependentUpon>NewAddedSymptoms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewKnowledgeSoceity.resx">
+      <DependentUpon>NewKnowledgeSoceity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSymptoms.resx">
+      <DependentUpon>NewSymptoms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewMedicine.resx">
+      <DependentUpon>NewMedicine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="AskQuestion.resx">
+      <DependentUpon>AskQuestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms.resx">
+      <DependentUpon>Symptoms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms1.resx">
+      <DependentUpon>Symptoms1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms10.resx">
+      <DependentUpon>Symptoms10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms11.resx">
+      <DependentUpon>Symptoms11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms12.resx">
+      <DependentUpon>Symptoms12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms13.resx">
+      <DependentUpon>Symptoms13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms14.resx">
+      <DependentUpon>Symptoms14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms15.resx">
+      <DependentUpon>Symptoms15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms16.resx">
+      <DependentUpon>Symptoms16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms17.resx">
+      <DependentUpon>Symptoms17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms18.resx">
+      <DependentUpon>Symptoms18.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms19.resx">
+      <DependentUpon>Symptoms19.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms2.resx">
+      <DependentUpon>Symptoms2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms20.resx">
+      <DependentUpon>Symptoms20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms21.resx">
+      <DependentUpon>Symptoms21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms22.resx">
+      <DependentUpon>Symptoms22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms23.resx">
+      <DependentUpon>Symptoms23.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms24.resx">
+      <DependentUpon>Symptoms24.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms25.resx">
+      <DependentUpon>Symptoms25.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms26.resx">
+      <DependentUpon>Symptoms26.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms27.resx">
+      <DependentUpon>Symptoms27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms28.resx">
+      <DependentUpon>Symptoms28.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms29.resx">
+      <DependentUpon>Symptoms29.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms3.resx">
+      <DependentUpon>Symptoms3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms30.resx">
+      <DependentUpon>Symptoms30.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms4.resx">
+      <DependentUpon>Symptoms4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms5.resx">
+      <DependentUpon>Symptoms5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms6.resx">
+      <DependentUpon>Symptoms6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms7.resx">
+      <DependentUpon>Symptoms7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms8.resx">
+      <DependentUpon>Symptoms8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptoms9.resx">
+      <DependentUpon>Symptoms9.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Medical-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label7.Text" xml:space="preserve">
+    <value>قياس مدى درجة الوعي عند المصاب :
+
+إذا كان المصاب واعيا لما حوله أو يستجيب عند النداء عليه أو عند هز كتفه فهذا يعني أن جهاز التنفس يعمل و أن قلبه ينبض فلا داعي لإجراء التنفس الصناعي أو إنعاش قلبه ، و لكن يجب ملاحظته باستمرار للتأكد من حفاظه على درجة الوعي و التنفس و عمل القلب إلى أن تصل الإسعاف.
+
+طريقة ملاحظة التنفس :
+يقلب المصاب على ظهره بحيث يصبح وجهه إلى أعلى ، ثم يقوم الشخص المسعف بإجراء عملية النظر و الإصغاء و التحسس :
+   ينظر إلى صدر الشخص و بطنه : هل يرتفعان و يهبطان بتواتر أم لا ؟
+
+   ثم توضع أذن المسعف على مقربة من فم المصاب و أنفه : هل يُسمع صوت تردد أنفاس المصاب أم لا ؟
+
+   إذا كان يتنفس و لكنه غير واع تماما فيمكنك وضعه في الوضع الجانبي الثابت و هو وضع مناسب في حالة تقيؤ المصاب و لضمان فتح مجرى التنفس عنده (هذا الوضع غير مناسب في حالة إصابات العنق).
+
+   إذا كان المصاب غير واع أو لا يستجيب للمؤثرات كما سبق شرحه ، في هذه الحالة يجب التأكد من تحرير مجرى الهواء خوفا من سقوط اللسان و قفل مجرى التنفس مع إزالة أي شيء داخل الفم مثل طاقم الأسنان أو القيء.
+
+و يمكن تحرير مجرى الهواء برفع الرأس من ذقن المصاب برفق إلى الأعلى ، و عاين التنفس كما ذكرنا سابقا بالنظر لصدر المصاب و اسمع و تحسس التنفس.
+
+طريقة التنفس الصناعي :
+
+   أمل رأس الشخص إلى الوراء بحيث تتجه ذقنه إلى أعلى و ذلك لإبقاء المسالك التنفسية مفتوحة ، و يتم تفريغ الفم من كل شيء فيه حتى الأسنان الصناعية.
+   باليد اليسرى نغلق فتحتى الأنف تماما و نجذب الرأس إلى الوراء.
+   و باليد اليمنى نبق الذقن متجهًا إلى أعلى.
+   افتح فم المصاب و أطبق فمك عليه بإحكام.
+   خذ زفيراً و انفخه في فم المصاب بعمق لمدة ثانية واحدة أو ثانية و نصف ثم توقف عن الزفير لنفس المدة.
+   إذا لاحظت ارتفاعاً و انخفاضاً في صدر المصاب أثناء عملية النفخ فكرر عملية النفخ مرة كل خمس ثوانى.
+   كل مرتين راقب تنفس المصاب إلى حين وصول فرقة الإسعاف المهني.
+   يكون طول النفس فى حالة إعطاء تنفس صناعى للشخص البالغ (أخذ نفس عميق و نفخه) ، و إذا كان المصاب طفل يكون طول النفس (ما هو متواجد فى رئة المسعف) ، أما إذا كان رضيعا فيكون (نفخة بسيطة).
+
+   حالما يستعيد المصاب تنفسه أقلب المصاب فى اتجاهك لوضع المصاب فى وضع الإفاقة ، و لا نتركه وحده بأى حال من الأحوال إذ قد يتوقف التنفس مرة أخرى.
+   أما في حال لا يوجد علو في صدر المصاب أثناء النفخ هذا يعني أن هناك انسداد في مجرى الهواء ، أدخل إصبعك في الفم لاستخراج ما قد يكون مسببا لذلك ثم تابع عملية الإنعاش.
+
+طريقة ملاحظة النبض :
+
+   بعد ذلك تفحص نبض الشخص عن طريق جس أعلى عنقه ، حيث بوضع إصبعين (السبابة و الوسطى) على رقبة المصاب من اليمين أو من اليسار.
+   فإذا لم تتحسس نبض المصاب فيجب التحول فورا إلى طريق عملية الإنعاش القلبى الرئوى.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>الأسباب المؤدية لتوقف التنفس :
+
+الغرق - الاختناق - الصدمة الكهربائية - الإفراط في تناول بعض الأدوية و خصوصا المهدئات و المخدرات - النوبة القلبية - إصابات الرأس و الصدر.
+
+و فى التنفس الاصطناعي يتم نقل الهواء من رئتي المسعف إلى رئتي المصاب بالنفخ فيهما عن طريق الفم و هذا الزفير يحتوي على %16 من الأوكسجين وهو أكثر مما يحتاج إليه للحفاظ على الحياة و هذا هو التنفس فماً لفم.
+
+التنفس الاصطناعي عن طريق (الفم للفم) هي الطريقة المفضلة في جميع الحالات التي لا يتنفس فيها المصاب ، و إذا تعذر الفم يمكن استخدام الأنف أو الفم و الأنف معاً.
+
+ملاحظة :
+
+قد يتعذر هذا التنفس في حال وجود جروح بليغة جداً أو وجود مادة آكلة حول الفم ، و لا جدوى من التنفس الاصطناعي إذا كان قلب المصاب لا يخفق لأن الدم المؤكسد لن يدور في الجسم فبعد إجراء التنفس الاصطناعي مرتين يجب التأكد أن القلب ينبض ، و إذا كان القلب لا ينبض فيمكن تنبيه الانقباض في القلب عن طريق عملية الإنعاش القلبى الرئوى.
+</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>التنفس الاصطناعي هو عملية تنفس ميكانيكية لاستعادة وضع الرئتين عند توقف أو اضطراب التنفس.
+
+يجب على كل إنسان التدريب على إجراء التنفس الصناعي فقد يضطر لإنقاذ حياة مصاب و يجب أن يعلم أنه في حالة توقف التنفس لا يعيش المصاب أكثر من 4 إلى 6 دقائق ، و كلما كان الإسعاف أسرع كلما قل التلف في أنسجة المخ بسبب نقص الأوكسجين.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

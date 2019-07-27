@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label9.Text" xml:space="preserve">
+    <value>يتضمن علاج نقص مستوى فيتامين د في الجسم، الحصول على المزيد من الفيتامين بالاعتماد على النظام الغذائي و ادوية نقص فيتامين د للتخفيف من أعراض نقص فيتامين د.
+ما علاج نقص فيتامين د لتعويض النقص وتجنب المضاعفات
+اسرع علاج لنقص فيتامين د يشمل اتباع عدة خطوات : 
+يتم تعويض نقص فيتامين د باعطاء فيتامين د عن طريق الفم بشكل يومي أو اسبوعي بتناول حبوب فيتامين د، كبسولات أو قطرات اعتماداً على حدة النقص في الجسم.
+يوصي أخصائيين طب الأطفال لتجنب المضاعفات المصاحبة مع نقص فيتامين د عند الأطفال الرضع مثل الكساح يعطى الطفل جرعة محددة من نقط فيتامين د. 
+التعرض لأشعة الشمس المباشرة و بالتحديد بين الساعة 10 صباحاً الى 3 مساءاً (هل تحرمنا واقيات الشمس من فيتامين د).
+نقص فيتامين د ينتشر بكثرة لدى النباتيين لعدم وجود مصادره في نظامهم الغذائي، لذا يمكنهم اخذ حبوب فيتامين د والتعرض للشمس وتناول الاطعمة الفواكه والعصير المدعمة بفيتامين د.
+ولكن يجب الانتباه أيضاً من زيادة فيتامين د و سمية فيتامين د إذا تناول الشخص جرعات عالية من هذا الفيتامين. </value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>العديد من الاشخاص المصابين بنقص فيتامين د قد لا يعانون من أي أعراض نقص فيتامين د، بينما قد يعاني بعضهم من ضعف عام أو أعياء فقط، مما يؤخر تشخيص المشكلة.
+صعوبة التفكير بوضوح و التركيز بالأمور. 
+الالم الشديد في العظام مثل الم الصدر ، ولكن إذا صاحبه ضيق التنفس يجب استشارة الطبيب فورا. 
+ضعف و الم العضلات. 
+ألم المفاصل.
+تكرار كسور العظام.
+لين العظام.
+نقص فيتامين د يسبب تساقط الشعر الشديد. 
+تعب غير مبرر.
+ تأخر الطفل في المشي وجلوسه لفترات طويلة هي من اعراض نقص فيتامين د عند الاطفال.
+يؤثر نقص فيتامين د على الصحة الجنسية والانتصاب .
+ضيق التنفس من الاعراض النادرة لنقص فيتامين د .
+ارتبط نقص فيتامين د في الحساسية، الربو، التفاعلات التحسسية والاكزيما.
+علامات نقص فيتامين د على العضلات العظام و المفاصل:
+فيتامين د يساعد في الوقاية من كسور العظام، عند الاشخاص المعرضين للاصابة بهشاشة العظام.
+وفي حالة نقص فيتامين د، أول ما يعاني منه المصاب هي اعراض نقص فيتامين د الشديد الخاصة بالعظام والعضلات.
+أثبتت دراسة أن نقص فيتامين د شائع عند مرضى التهاب المفاصل، ويسبب أيضاً نقص فيتامين د طقطقة المفاصل.
+يعاني الاشخاص الذين لديهم نقص فيتامين د من الم الظهر.
+اعراض نقص فيتامين د النفسيه والاعصاب :
+التعب والارهاق، الضعف العام والإعياء.
+الاكتئاب.
+القلق والخوف واحيانا نوبات الهلع.
+الضعف الجنسي.
+الأرق.
+سوء المزاج.
+عدم التركيز.
+ضعف الذاكرة.
+الارتباك.
+الدوخة، حيث أظهرت دراسة وجود علاقة بين علاج نقص فيتامين د والتقليل من الدوخة عند بعض المرضى وعدم الاتزان.
+وخز او تنميل في الجسم احيانا في منطقة الارداف او المؤخرة.
+يؤثر نقص فيتامين د على الأعصاب وجهاز المناعة ايضاً لاعتباره عامل في الاصابة بمرض الالزهايمر، الباركنسون، التصلب المتعدد.
+دراسة أيضاً أجريت على مرضى الوسواس القهري وجدت أن انخفاض فيتامين د يزيد من اعراض الوسواس القهري وقد يكون نقص فيتامين د من احد اسباب الوسواس القهري.
+هل نقص فيتامين د يسبب زيادة الوزن
+نقص فيتامين د يسبب صعوبة نزول الوزن.
+الأشخاص الذين يعانون من السمنة يصابون بنقص فيتامين د ولكن تناول فيتامين د لرفع مستوى فيتامين د في الجسم لا يسبب في انقاص الوزن للوصول الى النحافة.
+كل 10% زيادة عن الوزن الطبيعي حسب مؤشر كتلة الجسم (يمكنك تجربتها) يسبب في نزول فيتامين د عن الحد الطبيعي بنسبة 4.2%.
+اعراض نقص فيتامين د على الجلد
+الحساسية.
+الاكزيما.
+البقع البيضاء على الوجه.
+الهالات السوداء .
+اعراض نقص الكالسيوم وفيتامين د
+الكساح.
+لين العظام او ترقق العظام.
+ارتفاع هرمون الغدد جارات الدرقية .
+ارتفاع الضغط.
+هشاشة العظام و انخفاض كثافة العظم.
+الم العضلات.
+الامساك.
+الم العظام.
+الصداع.
+الم الفك.
+رفة الجفن او العين.
+نقص فيتامين د والهضم
+لاحظ الأطباء أن مرضى نقص فيتامين د يعانون من انتفاخ البطن مثل مرضى كرون والقولون العصبي خاصة أنهم يعانون من مشاكل في امتصاص بعض العناصر من الطعام الذي يتناولوه.</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>أسباب نقص مستوى فيتامين د:
+- عدم الحصول على كميات كافية من فيتامين د من مصادره الطبيعية
+عدم تناول الاحتياج اليومي من فيتامين د من مصادرة الغذائية، مع مرور الوقت، سيسبب نقص في متسويات فيتامين د بالدم . 
+ اتباع نظاماً غذائيا نباتياً صارماً، أي الابعتاد عن تناول المصادر الحيوانية، والتي تعتبر المصدر الغذائي الأول لفيتامين د، مثل السمك، زيوت الأسماك، صفار البيض، الجبن، اللبن المعزز، وكبد الأبقار.
+ حساسية الحليب، يتقيد الأشخاص اللذين يعانون من حساسية الحليب، بالاختيارات الغذائية لهم، والتي يجب أن تكون بعيدة عنالحليب ومشتقاته . 
+- التعرض غير الكافي لأشعة الشمس المباشرة، حيث يقوم الجسم بانتاج فيتامين د بشكله الفعال عندما يتعرض الجلد أشعة الشمس.
+- أمراض تسبب نقص فيتامين د:
+سوء الامتصاص
+قد تؤثر بعض اضطرابات الجهاز الهضمي على عملية امتصاص فيتامين د، مثل مرض كرون، التليف الكيسي، والداء الزلاقي أو السيلياك.
+مشاكل الكلى 
+تقوم الكلى بتحويل فيتامين د إلى شكله النشط، لذا قد يسبب أي خلل في وظائف الكلى نقصاً في نسبة فيتامين د.
+- أسباب أخرى تؤدي الى أعراض نقص فيتامين د
+تسارع استقلاب (أيض) فيتامين د، بتأثير بعض العقاقير الدوائية لا سيما تلك التي تحتوي على الكورتيكوستيرويدات مثل البريدنيزون، أو الأدوية المستخدمة في خفض مستوى الكوليسترول في الدم، أو الأدوية التي تساعد على خفض الوزن.
+نقص تركيز الفيتامين في حليب الأم، سيسبب نقص في فيتامين د للطفل الرضيع. 
+فرط السمنة الناتجة عن ارتفاع مستوى الدهون في الجسم، أو زيادة مؤشر كتلة الجسم ( BMI ) أكثر من 30، حيث يتم تخزين الفيتامين في الانسجة الدهنية، إذ يعد فيتامين د أحد الفيتامينات القابلة للذوبان في الدهون مما يعيق سهولة انتشاره ووصوله للدم.
+بعض الناس يولدون دون القدرة على معالجة فيتامين د.
+عوامل خطر الاصابة بنقص فيتامين د:
+تقدم العمر، قد تصبح الكلى أقل قدرة على تحويل فيتامين د إلى شكله النشط، مما يزيد من مخاطر الإصابة في اعراض نقص فيتامين د.
+نقص فيتامين د والسمنة، تجدر الإشارة إلى أن الأشخاص الذي يعانون من السمنة الزائدة ( مؤشر كتلة الجسم الخاصة 30 أو أكثر) عادة ما يعانون من انخفاض مستويات فيتامين د .
+البشرة الداكنة: يعمل صباغ الميلانين على تقليل قدرة الجلد على انتاج فيتامين د، استجابة للتعرض لأشعة الشمس، لذا عادة ما ينصح بالتعرض لأشعة الشمس لفترات أطول.
+بعض أنماط الحياة، والتي تؤثر على مدى تعرض الشخص لأشعة الشمس المباشرة، مثل: الأمهات وربّات البيوت، أو الذين يعملون في الاماكن المغلقة، وغيرهم ممن يندر خروجهم إلى أشعة الشمس.
+الاشخاص الذين يعيشون في الدول التي تقع في نصف الكرة الأرضية الشمالي. </value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>ما يقارب نصف العالم يعاني من نقص فيتامين د، وذلك يعود لفقر المصادر الغذائية ب فيتامين د، وأيضاً نسبة كبيرة من الاشخاص لا يتعرضون الى اشعة الشمس، المهمة في تصنيع فيتامين د في الجسم، ولون البشرة له دور في نسبة فيتامين د في الجسم، حيث وجِد أن اصحاب البشرة الداكنة لديهم انخفاض في مستوى فيتامين د.
+نقص فيتامين د هو انخفاض مستويات فيتامين د في الدم عن معدله الطبيعي (20-50 نانوغرام/مل)، المُتسبب في ترقق العظام  و تشوه شكلها، وفي حين يعتمد الشخص البالغ على تناول المصادرالغذائية لفيتامين د ، كالحليب، الألبان، والأسماك الدهنية كالسلمون، كما ان التعرض المباشر لأشعة الشمس وفي أوقات مُحددة يُسهم في الحد من نقص الفيتامين.
+فيتامين د3 من الفيتامينات المهمة التي تلعب دور هام  في عدد كبير من عمليات الجسم، والمساعدة في امتصاص الكالسيوم، والحفاظ على صحة العظام كذلك يساهم في نمو الأطفال، ومهم للنساء الحوامل، للمزيد اهمية فيتامين د عند النساء.
+علاقة نقص فيتامين د وأشعة الشمس:
+لوحظ أن ذوي البشرة الداكنة أكثر عرضة للإصابة بنقص فيتامين د، لأن صبغة الميلانين الموجودة لديهم بنسبة عالية، تقلل امتصاص فيتامين د، وذلك بسبب انخفاض امتصاص الجلد للأشعة فوق البنفسجية المهمة في تحفيز انتاج فيتامين د في الجسم.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>

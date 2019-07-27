@@ -1,0 +1,394 @@
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.exe
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.pdb
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\ar\Healthy Life app.resources.dll
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\mscorlib.dll
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\normidna.nlp
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\normnfc.nlp
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\normnfd.nlp
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\normnfkc.nlp
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\bin\Debug\normnfkd.nlp
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csprojResolveAssemblyReference.cache
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormConsulting.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormForgetPass.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormLogin.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormRegister.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Properties.Resources.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.ar.resources
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csproj.GenerateResource.Cache
+F:\Healthy Life app\New folder\Healthy Life app\Healthy Life app\obj\Debug\ar\Healthy Life app.resources.dll
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csprojResolveAssemblyReference.cache
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormConsulting.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormForgetPass.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormLogin.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormRegister.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Properties.Resources.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.ar.resources
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csproj.GenerateResource.Cache
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.exe
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.pdb
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\ar\Healthy Life app.resources.dll
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\mscorlib.dll
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.xml
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\normidna.nlp
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\normnfc.nlp
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\normnfd.nlp
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\normnfkc.nlp
+F:\Healthy Life app\Healthy Life app\Healthy Life app\bin\Debug\normnfkd.nlp
+F:\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\ar\Healthy Life app.resources.dll
+C:\Users\Abdelrahman\Downloads\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+C:\Users\Abdelrahman\Downloads\Healthy Life app\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.exe
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.pdb
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\ar\Healthy Life app.resources.dll
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\New folder (2)\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AnswersQuestions.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.DoctorConsulation.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcid19.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids10.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids11.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids12.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids13.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids14.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids15.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids16.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids17.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids18.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids20.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids21.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids22.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids23.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids24.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids25.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids26.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids27.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids28.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids29.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids30.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids8.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids1.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids2.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids3.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids5.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids6.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids7.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAidsBasics.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAcids9.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAids4.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormConsulting.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormForgetPass.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormLogin.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedical.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormMyAccount.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedicalDoctorAccess.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormRegister.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.HospitalsInfo.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.KnoweldgeSociety.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines1.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines10.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines11.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines12.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines13.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines14.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines15.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines16.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines17.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines18.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines19.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines2.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines20.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines21.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines22.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines23.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines24.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines25.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines26.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines27.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines28.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines29.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines3.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines30.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines4.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines5.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines6.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines7.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines8.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines9.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaDoctors.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaHospitals.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NearHospitals.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewArticle.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewMedicine.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Properties.Resources.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AskQuestion.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms1.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms2.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms3.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms4.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.ar.resources
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csproj.GenerateResource.Cache
+D:\New folder (2)\Healthy Life app\Healthy Life app\obj\Debug\ar\Healthy Life app.resources.dll
+C:\Users\Abdelrahman\Downloads\Compressed\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+C:\Users\Abdelrahman\Downloads\Compressed\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+D:\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.exe
+D:\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.pdb
+D:\Healthy Life app\Healthy Life app\bin\Debug\ar\Healthy Life app.resources.dll
+D:\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csprojResolveAssemblyReference.cache
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AnswersQuestions.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.DoctorConsulation.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcid19.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids10.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids11.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids12.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids13.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids14.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids15.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids16.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids17.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids18.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids20.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids21.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids22.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids23.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids24.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids25.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids26.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids27.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids28.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids29.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids30.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids8.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids1.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids2.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids3.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids5.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids6.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids7.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAidsBasics.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAcids9.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAids4.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormConsulting.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormForgetPass.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormLogin.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedical.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormMyAccount.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedicalDoctorAccess.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormRegister.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.HospitalsInfo.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.KnoweldgeSociety.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines1.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines10.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines11.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines12.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines13.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines14.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines15.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines16.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines17.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines18.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines19.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines2.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines20.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines21.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines22.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines23.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines24.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines25.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines26.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines27.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines28.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines29.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines3.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines30.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines4.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines5.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines6.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines7.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines8.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines9.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaDoctors.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaHospitals.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NearHospitals.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewArticle.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewMedicine.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Properties.Resources.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AskQuestion.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms1.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms2.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms3.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms4.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.ar.resources
+D:\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csproj.GenerateResource.Cache
+D:\Healthy Life app\Healthy Life app\obj\Debug\ar\Healthy Life app.resources.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.exe
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.Core.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Bunifu_UI_v1.5.3.xml
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AnswersQuestions.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.DoctorConsulation.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcid19.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids10.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids11.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids12.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids13.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids14.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids15.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids16.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids17.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids18.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids20.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids21.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids22.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids23.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids24.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids25.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids26.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids27.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids28.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids29.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids30.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAcids8.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids1.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids2.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids3.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids5.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids6.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAids7.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FirstAidsBasics.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAcids9.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FisrtAids4.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormConsulting.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormForgetPass.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormLogin.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedical.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormMyAccount.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormPartsMedicalDoctorAccess.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormRegister.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.HospitalsInfo.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.KnoweldgeSociety.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines1.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines10.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines11.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines12.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines13.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines14.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines15.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines16.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines17.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines18.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines19.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines2.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines20.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines21.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines22.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines23.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines24.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines25.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines26.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines27.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines28.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines29.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines3.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines30.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines4.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines5.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines6.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines7.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines8.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Medecines9.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaDoctors.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.MiniaHospitals.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NearHospitals.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewAddedMedecines.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewAddedSymptoms.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewKnowledgeSoceity.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewSymptoms.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.NewMedicine.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Properties.Resources.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.AskQuestion.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms1.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms10.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms11.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms12.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms13.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms14.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms15.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms16.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms17.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms18.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms19.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms2.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms20.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms21.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms22.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms23.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms24.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms25.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms26.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms27.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms28.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms29.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms3.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms30.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms4.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms5.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms6.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms7.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms8.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.Symptoms9.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy_Life_app.FormServices.ar.resources
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csproj.GenerateResource.Cache
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\ar\Healthy Life app.resources.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.exe
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.pdb
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\Healthy Life app.pdb
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\bin\Debug\ar\Healthy Life app.resources.dll
+G:\Abdo Work\شغل عبدالرحمن\مشاريع\Healthy Life Download Project\Healthy Life app\Healthy Life app\obj\Debug\Healthy Life app.csprojResolveAssemblyReference.cache

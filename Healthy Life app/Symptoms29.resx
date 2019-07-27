@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label9.Text" xml:space="preserve">
+    <value>إذا كنت تعاني من اعراض التهاب اللثة فعليك مراجعة طبيب الأسنان لتقييم الحالة لتجنب مضاعفات امراض اللثة، حيث تتعدد طرق علاج التهاب اللثة:
+طرق علاج التهاب اللثة
+علاج التهاب اللثة بالأعشاب
+علاج التهاب اللثة بالماء المالح
+كيف يساعد الماء والملح على التخفيف من التهاب اللثة
+كيفية استخدام الماء المالح لعلاج التهاب اللثة
+علاج التهاب اللثة عند طبيب الأسنان
+علاج التهاب اللثة بالأدوية
+علاج التهاب اللثة التقرحي الناخر الحاد بالأدوية
+المضادات الحيوية المستخدمة في علاج التهاب اللثة
+البنسلين
+الإريثروميسين
+مينوسيكلين (أريستون)
+علاج التهاب اللثة بالجراحة
+علاج التهاب اللثة بالأعشاب
+علاج التهاب اللثة بالماء المالح
+أظهرت نتائج دراسة أجريت في عام 2016 أنّ المضمضة بالماء المالح يمكن أن يكون مفيداً جدّاً في شفاء اللثة الملتهبة؛ فالملح مطهر طبيعي يساعد الجسم على شفاء نفسه.
+كيف يساعد الماء والملح على التخفيف من التهاب اللثة
+تهدئة اللثة الملتهبة.
+تخفيف الألم.
+تقليل البكتيريا.
+إزالة جزيئات الطعام.
+تخفيف رائحة الفم الكريهة.
+كيفية استخدام الماء المالح لعلاج التهاب اللثة
+إضافة 1/2 إلى 3/4 ملعقة صغيرة من الملح إلى كوب من الماء الفاتر ومزجه جيداً.
+مضمضة المحلول في الفم لمدة تصل إلى 30 ثانية.
+بصق المحلول.
+تكرار المضمضة مرتين أو ثلاث مرات في اليوم.
+المضمضة بالماء المالح في كثير من الأحيان أو لفترة طويلة يمكن أن يكون له آثار سلبية على مينا الأسنان، فقد يؤدي الاستخدام طويل المدى إلى تآكل الأسنان بسبب الخصائص الملحية للمزيج، لذلك يجب تركها بين فترة وفترة.
+علاج التهاب اللثة عند طبيب الأسنان
+التنظيف العميق هو الخط الأول في علاج أمراض اللثة بخلاف التنظيف المنتظم، والذي عادة ما يتم فقط فوق خط اللثة، حيث إنّ التنظيف العميق يمر تحت خط اللثة.
+يستخدم طبيب الأسنان أدوات خاصة أكثر فاعلية من الطرق المنزلية.
+يعمل طبيب الأسنان على إزالة الرواسب اللزجة والجير حول الأسنان، وهذا ما يُعرف باسم "تحجيم الأسنان". قد يكون هذا غير مريح، خاصة إذا كان تراكم الرواسب واسعاً أو اللثة حساسة للغاية.
+سيشرح طبيب الأسنان أو أخصائي الأسنان أهمية نظافة الفم وكيفية التنظيف بالفرشاة بشكل فعال.
+يُجري بعدها طبيب الاسنان ما يُعرف ب "التخطيط الجذري". هذا عندما يتم تنظيف الأسطح الخشنة لجذور الأسنان لمساعدة اللثة على الالتصاق بالأسنان بشكل جيد.
+يوصي الطبيب بمواعيد المتابعة، مع مزيد من عمليات التنظيف المتكررة إذا لزم الأمر، حيث إنّ إصلاح أي أسنان تالفة يساهم أيضاً في نظافة الفم، فبعض مشاكل الأسنان مثل الأسنان المعوجة، أو التيجان، أو الجسور المركبة بشكل سيء، قد تجعل من الصعب إزالة اللويحات الجيرية بشكل صحيح، ويمكن أيضا أن تتسبب بتهيج اللثة.
+علاج التهاب اللثة بالأدوية
+لا يوجد حبة سحرية أو كريم يمكن أن يعالج أمراض اللثة مباشرة، ورغم ذلك قد يستخدم طبيب الأسنان الدواء كجزء من العلاج:
+الرقاقة المطهرة أو كريات المضادات الحيوية: يدخل طبيب الأسنان هذه المواد الدقيقة أو الجسيمات الصغيرة في جيوب في اللثة، وتطلق الدواء ببطء مع مرور الوقت للمساعدة على تقليل حجم الجيب والتخلص من البكتيريا.
+جل المضادات الحيوية: استخدام الجل على جيوب اللثة بعد التنظيف العميق للمساعدة في السيطرة على العدوى.
+الإنزيم القامع: يتم تناول هذه الحبوب بعد التنظيف العميق لمنع بعض الإنزيمات في الفم من تدمير أنسجة اللثة.
+المضادات الحيوية عن طريق الفم.
+علاج التهاب اللثة التقرحي الناخر الحاد بالأدوية
+المضادات الحيوية
+مضادات الالتهاب غير الستيروئيدية
+الزيلوكائين (المخدر أو البنج الموضعي) لتخفيف الألم.
+كما أن المضمضة الفموية بمحلول بيروكسيد الهيدروجين 3٪ قد يكون مفيداً أيضاً.
+تُستخدم الأدوية للقضاء على العدوى البكتيرية التي هي السمة المميزة لالتهاب اللثة التقرحي الناخر الحاد. بعد ذلك، يمكن استخدام المضادات الحيوية أيضاً في علاج التهاب اللثة المزمن البسيط، ولكن لا يوجد دليل حالي يبرر هذا الاستخدام.
+المضادات الحيوية المستخدمة في علاج التهاب اللثة
+البنسلين
+يستخدم في المرضى الذين يعانون من التهاب اللثة التقرحي الناخر الحاد الذين ليس لديهم حساسية من البنسلين.
+الإريثروميسين
+يستخدم في المرضى الذين يعانون من التهاب اللثة الذين لديهم حساسية من البنسلين.
+مينوسيكلين (أريستون)
+يستخدم كعامل مساعد عند عمل تنظيف الأسنان، أو إجراءات إزالة عصب الأسنان والتخطيط للحد من عمق التسوس في المرضى الذين يعانون من التهاب اللثة. يمكن استخدامها كجزء من برنامج عمل متابعة حالة اللثة الذي يتضمن نظافة الفم الجيدة، وتنظيف الأسنان، والتخطيط لعملية إزالة العصب في الأسنان.
+الدوكسيسيكلين
+علاج التهاب اللثة بالجراحة
+في بعض حالات التهاب اللثة المزمنة قد لا تنفع كل طرق العلاج السابقة فيتم اللجوء إلى الجراحة لعلاج التهاب اللثة.
+جراحة اللثة: ينقل الجراح الأنسجة من جزء آخر من الفم (مثل الحنك)، ويغطي جذور الأسنان المكشوفة لمنع فقدان أو تسوس العظام وللمساعدة في حساسية الأسنان.
+جراحة الفلاب: يتم رفع اللثة حتى يتمكن الجراح من الوصول إلى عمق الجير تحت خط اللثة. ثم يُركّب اللثة مرة أخرى في مكانها، بحيث تكون ضيقة حول السن للمساعدة في منع تشكيل الجير.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>اعراض التهاب اللثة
+احمرار اللثة.
+تورم اللثة.
+الم في اللثة او الأسنان.
+رائحة الفم الكريهة.
+نزيف اللثة، نزول الدم في بعض الاحيان.
+تغير الملمس والشكل العام للثة و جفاف الفم.
+نمو غير طبيعي للثة قد يؤثر على اماكن الأسنان في الفم.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>التهاب اللثة هو من أهم أمراض اللثة والأسنان وهو تهيج، احمرار وتورم يحدث في اللثة والذي قد تتراوح أعراضه من احمرار بسيط الى ألم حاد قد يمتد الى الأسنان.
+يحدث التهاب اللثة عادةً بسبب تراكم طبقة من الرواسب اللزجة أو البكتيريا على الأسنان، وهو نوع غير مدمر من أمراض اللثة، ولكن التهاب اللثة غير المعالَج يمكن أن يتطور إلى التهاب دواعم السن، وهو الأمر الأكثر خطورة، ويمكن أن يؤدي في النهاية إلى جفاف حول الأسنان وفقدان الأسنان.
+تشمل علامات التهاب اللثة الاحمرار والانتفاخات التي من الممكن أن تنزف بسهولة.
+في الحالات الخفيفة من التهاب اللثة، قد لا يعرف المرضى حتى أنّهم مصابون به، لأن الأعراض معتدلة، ويمكن أن تعالج بسهولة مع التنظيف الجيد للفم.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAAA3tJREFUaEPtmDtvE0EQxy1AFFQ8C15fgBYBAcV3EREVUbwX7ICgQgKJhg4BgSIN
+        JCmBSIDCNwjEJPbeOQURDYjakCCBKDCGJk+6PHhcZuwJsZO5897DZwr/pZ9i5XZn/ns3u7e3saaaaiq4
+        UqnhrbphtWiGeUc3zBHdkFPwd14XcqUE/NaEnNQM+UIXZk9bpzwR6+3dQt0bp3hi/DAYGgCDPwDbCzCg
+        Igy4HwZ+iMJFJ70jsxfu5hCYX+bMeQJiQKzHGJPC11dal3kRymKONRMAeBozupG9QGnC15HU8HZ47M+4
+        5GECT+OJrr/eRmnD0dGOzA6YmBaXsB7AILKYk9IHE975KM3/Q5hjuLqRDf+KomycwHIiG/4UN6xLXOAo
+        gRvYTXa8qTVp7YOVYZYLGilCTreL9B6ypS6owadswAYApTRIttREb9jgL6mQgAEsnU5mD5K92gLzuD1g
+        g6kyMJhn/+8XGEQf2ash2GRpwvzOBVGhPWnZaeurjeKu+0d+U9oAaiJzkg9QG3H5lZ2fmiuZR3FtghAX
+        2eNk01m0JWYDuHHt5lt7enaRrJfFtQuEkLfJprOg/tNsZxew3pdX/pDtdXFtgwDvhOdk01nQaJLrzFFZ
+        75y4PkGAufmBbDoLGs5v7Mixsd45ffry0xNcnkrwxUo2naWy/nP1Hoa4XFWAN7LpLJUBjOYKlDJccbmq
+        UBqAYgk9GJq0f/3+S6nDEZenEqUSwonCdea4fvedPb+wROk36+qNN57gclQj35NNZ0HDkc0dnUlembA/
+        fl4gy9Xi2gdBaRmFOuvhOrtxpjtnWxNFsr0urm0QNCN7i2w6Cw+ouM4qbJwXXJsgaIZ1jGy6qLSZk0Uu
+        gAqV84K77hthFpRP82C297NBFFmbF9w13wh5n+zVFh73qbwP3MB5wf3fD1ARi6c6Rw+QPTXhiQAXrBF4
+        /qRE4Yf0//JR33pW7iJb3hTvMs+zQSOkLWGeIzv+BHOhcacTwnxINvwLD1oh0BiboJ6EdbSIwoNWmEhZ
+        NlE9APOhHe6uCZ9EFCsTbCYfhXbnOcGOMAWr0wyXPBCw2sD7J0lp6quW5PhuXJuBJdaMB/AlhXddT7zc
+        SeGjEx73wSD6oGYLnDlXyn3uxY3cfgrXQMEmCw+d8NwG9+z44QG/58Dkchn8LfN4DbfEpV2l6sasqaaa
+        clEstgrX6UxGg8THqQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
+</root>
